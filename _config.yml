@@ -23,17 +23,17 @@ highlighter:        rouge
 # Navigation
 nav:
   - name:           "home"
-    href:           "/"
+    href:           "Lab/"
   - name:           "about"
-    href:           "/about"
+    href:           "Lab/about"
   - name:           "publications"
-    href:           "/publication"
+    href:           "Lab/publication"
   - name:           "people"
-    href:           "/people"
+    href:           "Lab/people"
   - name:           "blog"
-    href:           "/blog"
+    href:           "Lab/blog"
   - name:           "resources"
-    href:           "/resources"
+    href:           "Lab/resources"
 
 # Sass
 sass:
@@ -64,4 +64,4 @@ defaults:
 collections:
   people:
     output: true
-    permalink: /people/:title/index.html
+    permalink: Lab/people/:title/index.html
