@@ -27,7 +27,7 @@ A good lab isn't good from the outset, but rather has a process of reflection an
 regularly asks, *"How
 is this, what we're doing now? Does it support our values? How could it be better?"*
 
-This fall we challenged ourselves to make the Kording lab better suited for us.
+This fall we challenged ourselves to make the Design Engineering better suited for us.
 Our key realization was that we could *design our lab* towards the values we think
 make a good lab. Behavior follows structure!
 
@@ -194,7 +194,7 @@ orientation, social, research communication, mentorship, documentation, and reso
 
 0. **Lab teachings**: A member of the lab leads a ~1 hour 'teaching' on a subject
 of their interest. It cannot be updates on their current research. This is a longstanding
-Kording lab practice. https://TTI-DEL.github.io/Lab/2018/08/29/upcoming-lab-teaching.html
+Design Engineering practice. https://TTI-DEL.github.io/Lab/2018/08/29/upcoming-lab-teaching.html
 0. **1-on-1's**: Every member of the lab is required to sit down with every other
 member of the lab and discuss their work for an hour. Refreshes once a semester.
 0. **Physical environment**: We now have

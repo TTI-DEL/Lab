@@ -1,11 +1,11 @@
 ---
 title: How to add blog post on Jekyll
-description: simple way to add post on Jekyll for Kording lab's blog
+description: simple way to add post on Jekyll for Design Engineering's blog
 categories: blog
 header-img: images/post/dino3.jpg
 ---
 
-We use Jekyll to creat Kording lab blog. Not only us that use Jekyll as an organization blog, [Stack Overflow Blog](http://blog.stackoverflow.com/) also use Jekyll. They host all the blog on Github  [StackExchange/stack-blog](https://github.com/StackExchange/stack-blog) which has really nice instruction to add new posts.
+We use Jekyll to creat Design Engineering blog. Not only us that use Jekyll as an organization blog, [Stack Overflow Blog](http://blog.stackoverflow.com/) also use Jekyll. They host all the blog on Github  [StackExchange/stack-blog](https://github.com/StackExchange/stack-blog) which has really nice instruction to add new posts.
 
 Using Jekyll, it's very easy to add post on `kordinglab.github.io`. All the posts are located in `_posts` folder located in [`KordingLab.github.io`](https://github.com/KordingLab/KordingLab.github.io). Post arrangement is based on date. Each posts can be written in markdown format (also in `html` too, like `<br>` means new line). File name of each post is in `year-month-date-post-name.md` format such as `2016-02-05-how-to-add-blog.md` or `2016-01-22-bayesian-theory.md`. On top of each post, you just have to state 3 main things in markdown before writing a post: `title`, `description` and `categories` as follows
 

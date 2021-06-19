@@ -19,7 +19,7 @@ Subject Zero hangs out in room 1479, keeping an eye on everyone in the lab and m
 <img width="250" src="{{site.baseurl}}/images/people/subject_zero_office.jpg" data-action="zoom">
 
 Subject Zero just move to his new office at [Ability lab](https://www.sralab.org/). He takes control
-all the grant applications and feeding all post-doc in the Kording lab with vegetarian meat, poultry and fish.
+all the grant applications and feeding all post-doc in the Design Engineering with vegetarian meat, poultry and fish.
 
 ### Subject Zero's Status
 
@@ -51,7 +51,7 @@ Subject Zero likes jokes. He has a few:
 - Subject Zero has never once done the dishes in the lab.
 - Konrad got a banner for the lab and put it up above our door. One night, Subject Zero added names of old mathematicians, mischievously mixing in the name of one lab member.
 - Subject Zero had a character in Mortal Kombat named after him.
-- Subject Zero has inspired many Kording Lab members.
+- Subject Zero has inspired many Design Engineering members.
 
 <hr>
 

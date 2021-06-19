@@ -1,6 +1,6 @@
-# Kording lab page
+# Design Engineering page
 
-This is repository for [Kording lab page](https://TTI-DEL.github.io/Lab/). We use Jekyll to run our Github page. We are welcome for other people to contribute to our site not just lab members. Feel free to fork and pull-request!
+This is repository for [Design Engineering page](https://TTI-DEL.github.io/Lab/). We use Jekyll to run our Github page. We are welcome for other people to contribute to our site not just lab members. Feel free to fork and pull-request!
 
 ## Run the page locally using Jekyll
 
