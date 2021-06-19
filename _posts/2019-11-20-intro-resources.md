@@ -44,7 +44,7 @@ If you need to install your own software, you should create an environment of yo
 
 **Useful Commands**
 
-[See here](https://TTI-DEL.github.io/Lab /2018/09/20/bleen-quadcorn-commands.html)
+[See here](https://TTI-DEL.github.io/Lab/2018/09/20/bleen-quadcorn-commands.html)
 
 
 ### Common Issues

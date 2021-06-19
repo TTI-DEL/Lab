@@ -12,11 +12,11 @@ Please contact us if you want to add your translated version of the paper here.
 ### Chinese
 
  这是中文版本:
- [link](https://TTI-DEL.github.io/Lab /images/post/ten_simple_rules/chinese.pdf)
+ [link](https://TTI-DEL.github.io/Lab/images/post/ten_simple_rules/chinese.pdf)
 
 ### Farsi
 ترجمه فارسی مقاله در اینجا وجود دارد:
-[link](https://TTI-DEL.github.io/Lab /images/post/ten_simple_rules/farsi.pdf)
+[link](https://TTI-DEL.github.io/Lab/images/post/ten_simple_rules/farsi.pdf)
 
 همینطور نمودار آن در اینجا قرار دارد:
-[link](https://TTI-DEL.github.io/Lab /images/post/ten_simple_rules/farsi_summary.jpeg)
+[link](https://TTI-DEL.github.io/Lab/images/post/ten_simple_rules/farsi_summary.jpeg)

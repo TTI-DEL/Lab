@@ -61,6 +61,6 @@ Get on the listserve for announcements: https://groups.google.com/forum/#!forum/
 
 # Previous lab teaching
 
-- [2018 - 2020 topics](https://TTI-DEL.github.io/Lab /2018/08/29/upcoming-lab-teaching.html)
-- [2016 topics](https://TTI-DEL.github.io/Lab /lab_teaching_2016/)
+- [2018 - 2020 topics](https://TTI-DEL.github.io/Lab/2018/08/29/upcoming-lab-teaching.html)
+- [2016 topics](https://TTI-DEL.github.io/Lab/lab_teaching_2016/)
 - [2015 topics](http://github.com/KordingLab/lab_teaching_2015)

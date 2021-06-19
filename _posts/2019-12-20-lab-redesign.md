@@ -194,7 +194,7 @@ orientation, social, research communication, mentorship, documentation, and reso
 
 0. **Lab teachings**: A member of the lab leads a ~1 hour 'teaching' on a subject
 of their interest. It cannot be updates on their current research. This is a longstanding
-Kording lab practice. https://TTI-DEL.github.io/Lab /2018/08/29/upcoming-lab-teaching.html
+Kording lab practice. https://TTI-DEL.github.io/Lab/2018/08/29/upcoming-lab-teaching.html
 0. **1-on-1's**: Every member of the lab is required to sit down with every other
 member of the lab and discuss their work for an hour. Refreshes once a semester.
 0. **Physical environment**: We now have

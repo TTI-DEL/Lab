@@ -17,14 +17,14 @@ The best way to get a sense of what's currently going on in the lab is to check 
 
 ### Lab Members
 
-Our research group is remarkably interdisciplinary. Our interests span statistics, physics, biology, applied mathematics, molecular biology, metascience, cognitive science, and many other disciplines. Visit our [people page](https://TTI-DEL.github.io/Lab /people/) to see more information on each person who works in the lab (publications, contact information, photos).
+Our research group is remarkably interdisciplinary. Our interests span statistics, physics, biology, applied mathematics, molecular biology, metascience, cognitive science, and many other disciplines. Visit our [people page](https://TTI-DEL.github.io/Lab/people/) to see more information on each person who works in the lab (publications, contact information, photos).
 
 ### Lab Culture
 
 Our lab is a wonderful spot for anyone who is super driven by curiosity and likes to learn/move through ideas quickly. Instead of one big "lab project", everyone is generally the chief of their own individual projects.
 
 Since our lab includes several fields, we don't have big lab meetings with everyone. Instead, we engage in a number of practices to facilitate good communication in the lab. Currently these include
-0. Weekly 'lab teachings' where someone teaches a thing. https://TTI-DEL.github.io/Lab /2018/08/29/upcoming-lab-teaching.html
+0. Weekly 'lab teachings' where someone teaches a thing. https://TTI-DEL.github.io/Lab/2018/08/29/upcoming-lab-teaching.html
 0. 'One-on-ones'. Every semester everyone in the lab is expected to sit down with everyone else for an hour.
 0. Lab tea time. It's tea! And science. A 10-minute talk by someone about anything, including their current work.
 0. Coding overviews. Structured like the one-on-ones

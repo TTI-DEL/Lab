@@ -12,7 +12,7 @@ neuroscientific princples, new findings and literature reviews... whatever!
 
 Get on the listserve for announcements: https://groups.google.com/forum/#!forum/kording-lab-teachings
 
-[Click here for current topics (as of summer 2021)](https://TTI-DEL.github.io/Lab /2021/01/01/upcoming-lab-teaching.html)
+[Click here for current topics (as of summer 2021)](https://TTI-DEL.github.io/Lab/2021/01/01/upcoming-lab-teaching.html)
 
 {% assign reference_types = "scientists|students" | split: "|" %}
 

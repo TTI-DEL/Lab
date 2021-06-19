@@ -136,5 +136,5 @@ Older:
 
 # Previous lab teaching
 
-- [2016 topics](https://TTI-DEL.github.io/Lab /lab_teaching_2016/)
+- [2016 topics](https://TTI-DEL.github.io/Lab/lab_teaching_2016/)
 - [2015 topics](http://github.com/KordingLab/lab_teaching_2015)
