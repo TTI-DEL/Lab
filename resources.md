@@ -2,11 +2,11 @@
 title: Reference
 permalink: /resources/
 ---
-
+<!--
 ### Upcoming lab teachings
 
-Every Friday at 13:30 EST, we get together (mix of virtual and in person) for lab teachings. 
-On a rotating basis, each member of the lab speaks and teaches about something they know. 
+Every Friday at 13:30 EST, we get together (mix of virtual and in person) for lab teachings.
+On a rotating basis, each member of the lab speaks and teaches about something they know.
 Anything, really. Relevant and interesting topics, good skills to know, nice Python packages,
 neuroscientific princples, new findings and literature reviews... whatever!
 
@@ -54,3 +54,4 @@ Get on the listserve for announcements: https://groups.google.com/forum/#!forum/
 </div>
 
 <hr>
+-->
