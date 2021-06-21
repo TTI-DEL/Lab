@@ -2,7 +2,7 @@
 title: blog
 permalink: /blog/
 ---
-
+<!--
 ### **Blog posts from the lab**
 
 <div class="content list">
@@ -34,3 +34,4 @@ permalink: /blog/
     {% endif %}
   {% endfor %}
 </div>
+-->
