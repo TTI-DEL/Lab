@@ -2,6 +2,10 @@
 title: blog
 permalink: /blog/
 ---
+
+coming soon
+
+
 <!--
 ### **Blog posts from the lab**
 

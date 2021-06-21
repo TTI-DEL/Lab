@@ -9,19 +9,19 @@ we study next generation computer aided design system that implements geometric 
 
 ### Research
 
-
+coming soon
 
 ### Lab Members
 
-
+coming soon
 
 ### Lab Culture
 
-
+coming soon
 
 ### Collaborators
 
-
+coming soon
 
 <!--
 ### Research
