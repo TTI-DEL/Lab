@@ -1,6 +1,6 @@
 ---
 name: Researcher One
-position: researchstaff
+position: #researchstaff
 avatar: researcher-one.jpg
 twitter:
 joined: 2021
@@ -21,4 +21,4 @@ joined: 2021
 
 ### Research Interests
 
-INTEREST INTEREST INTEREST INTEREST INTEREST INTEREST INTEREST INTEREST INTEREST INTEREST INTEREST g.
+INTEREST INTEREST INTEREST INTEREST INTEREST INTEREST INTEREST INTEREST INTEREST INTEREST INTEREST  

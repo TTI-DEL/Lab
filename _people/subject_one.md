@@ -1,6 +1,6 @@
 ---
 name: Subject One
-position: others
+position: #others
 avatar: subject_one.jpg
 joined: 2021
 ---
