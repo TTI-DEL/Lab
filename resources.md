@@ -2,6 +2,8 @@
 title: Reference
 permalink: /resources/
 ---
+<!--
+
 
 ### Upcoming lab teachings
 
@@ -50,6 +52,6 @@ permalink: /resources/
 <hr>
 
 
-<!--
+
 
 -->
