@@ -8,7 +8,7 @@ joined: 2021
 
 <img width="300" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
 
-<a href="https://github.com/RoozbehFarhoodi"><i class="fa fa-github"></i> Github</a><br>
+
 
 <!--<i class="fa fa-mobile"></i> (312) 721-4271<br>-->
 
