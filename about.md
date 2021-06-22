@@ -26,7 +26,7 @@ Collaborative work between a humanoid robot and a human
 			<div class="col-xs-3">
 							</div>
 			<div class="col-xs-9">
-				<a href="/masakazukobayashi/association_memberships/5626970" class="rm-cv-list-title">精密工学会</a>&nbsp;			</div>
+				<a href="https://researchmap.jp/masakazukobayashi/association_memberships/5626970" target="_blank" rel="noopener" class="rm-cv-list-title">精密工学会</a>&nbsp;			</div>
 		</div>
 
 			</div>
@@ -40,7 +40,7 @@ Collaborative work between a humanoid robot and a human
 			<div class="col-xs-3">
 							</div>
 			<div class="col-xs-9">
-				<a href="/masakazukobayashi/association_memberships/5626969" class="rm-cv-list-title">日本機械学会</a>&nbsp;			</div>
+				<a href="https://researchmap.jp/masakazukobayashi/association_memberships/5626969" target="_blank" rel="noopener" class="rm-cv-list-title">日本機械学会</a>&nbsp;			</div>
 		</div>
 
 			</div>
@@ -54,7 +54,7 @@ Collaborative work between a humanoid robot and a human
 			<div class="col-xs-3">
 							</div>
 			<div class="col-xs-9">
-				<a href="/masakazukobayashi/association_memberships/5626968" class="rm-cv-list-title">The Japan Society for Precision Engineering</a>&nbsp;			</div>
+				<a href="https://researchmap.jp/masakazukobayashi/association_memberships/5626968" target="_blank" rel="noopener" class="rm-cv-list-title">The Japan Society for Precision Engineering</a>&nbsp;			</div>
 		</div>
 
 			</div>
@@ -68,7 +68,7 @@ Collaborative work between a humanoid robot and a human
 			<div class="col-xs-3">
 							</div>
 			<div class="col-xs-9">
-				<a href="/masakazukobayashi/association_memberships/5626967" class="rm-cv-list-title">The Japan Society of Mechanical Engineers</a>&nbsp;			</div>
+				<a href="https://researchmap.jp/masakazukobayashi/association_memberships/5626967" target="_blank" rel="noopener" class="rm-cv-list-title">The Japan Society of Mechanical Engineers</a>&nbsp;			</div>
 		</div>
 
 			</div>
@@ -89,7 +89,7 @@ Collaborative work between a humanoid robot and a human
 	<div class="rm-cv-list-content">
 
 		<div>
-			<a href="https://researchmap.jp/masakazukobayashi/research_projects/8364957" target="_blank" rel="noopener" class="rm-cv-list-title">概念設計段階におけるライフサイクル最適化</a>&nbsp;		</div>
+			<a href="https://researchmap.jp/masakazukobayashi/research_projects/8364957" target="_blank" rel="noopener" target="_blank" rel="noopener" class="rm-cv-list-title">概念設計段階におけるライフサイクル最適化</a>&nbsp;		</div>
 		<div>
 					</div>
 		<div class="rm-cv-list-author">
@@ -103,7 +103,7 @@ Collaborative work between a humanoid robot and a human
 	<div class="rm-cv-list-content">
 
 		<div>
-			<a href="https://researchmap.jp/masakazukobayashi/research_projects/8364956" target="_blank" rel="noopener" class="rm-cv-list-title">概念設計CAD</a>&nbsp;		</div>
+			<a href="https://researchmap.jp/masakazukobayashi/research_projects/8364956" target="_blank" rel="noopener" target="_blank" rel="noopener" class="rm-cv-list-title">概念設計CAD</a>&nbsp;		</div>
 		<div>
 					</div>
 		<div class="rm-cv-list-author">
@@ -117,7 +117,7 @@ Collaborative work between a humanoid robot and a human
 	<div class="rm-cv-list-content">
 
 		<div>
-			<a href="https://researchmap.jp/masakazukobayashi/research_projects/8364955" target="_blank" rel="noopener" class="rm-cv-list-title">ロボット経路計画法</a>&nbsp;		</div>
+			<a href="https://researchmap.jp/masakazukobayashi/research_projects/8364955" target="_blank" rel="noopener" target="_blank" rel="noopener" class="rm-cv-list-title">ロボット経路計画法</a>&nbsp;		</div>
 		<div>
 					</div>
 		<div class="rm-cv-list-author">
@@ -131,7 +131,7 @@ Collaborative work between a humanoid robot and a human
 	<div class="rm-cv-list-content">
 
 		<div>
-			<a href="https://researchmap.jp/masakazukobayashi/research_projects/8364954" target="_blank" rel="noopener" class="rm-cv-list-title">コラボレーション環境下における創造性支援</a>&nbsp;		</div>
+			<a href="https://researchmap.jp/masakazukobayashi/research_projects/8364954" target="_blank" rel="noopener" target="_blank" rel="noopener" class="rm-cv-list-title">コラボレーション環境下における創造性支援</a>&nbsp;		</div>
 		<div>
 					</div>
 		<div class="rm-cv-list-author">
@@ -145,7 +145,7 @@ Collaborative work between a humanoid robot and a human
 	<div class="rm-cv-list-content">
 
 		<div>
-			<a href="https://researchmap.jp/masakazukobayashi/research_projects/8364953" target="_blank" rel="noopener" class="rm-cv-list-title">構造最適化</a>&nbsp;		</div>
+			<a href="https://researchmap.jp/masakazukobayashi/research_projects/8364953" target="_blank" rel="noopener" target="_blank" rel="noopener" class="rm-cv-list-title">構造最適化</a>&nbsp;		</div>
 		<div>
 					</div>
 		<div class="rm-cv-list-author">
@@ -159,7 +159,7 @@ Collaborative work between a humanoid robot and a human
 	<div class="rm-cv-list-content">
 
 		<div>
-			<a href="https://researchmap.jp/masakazukobayashi/research_projects/8364952" target="_blank" rel="noopener" class="rm-cv-list-title">Lifecycle optimization for conceptual design</a>&nbsp;		</div>
+			<a href="https://researchmap.jp/masakazukobayashi/research_projects/8364952" target="_blank" rel="noopener" target="_blank" rel="noopener" class="rm-cv-list-title">Lifecycle optimization for conceptual design</a>&nbsp;		</div>
 		<div>
 					</div>
 		<div class="rm-cv-list-author">
@@ -173,7 +173,7 @@ Collaborative work between a humanoid robot and a human
 	<div class="rm-cv-list-content">
 
 		<div>
-			<a href="https://researchmap.jp/masakazukobayashi/research_projects/8364951" target="_blank" rel="noopener" class="rm-cv-list-title">Conceptual design CAD</a>&nbsp;		</div>
+			<a href="https://researchmap.jp/masakazukobayashi/research_projects/8364951" target="_blank" rel="noopener" target="_blank" rel="noopener" class="rm-cv-list-title">Conceptual design CAD</a>&nbsp;		</div>
 		<div>
 					</div>
 		<div class="rm-cv-list-author">
@@ -187,7 +187,7 @@ Collaborative work between a humanoid robot and a human
 	<div class="rm-cv-list-content">
 
 		<div>
-			<a href="https://researchmap.jp/masakazukobayashi/research_projects/8364950" target="_blank" rel="noopener" class="rm-cv-list-title">Robot path planning</a>&nbsp;		</div>
+			<a href="https://researchmap.jp/masakazukobayashi/research_projects/8364950" target="_blank" rel="noopener" target="_blank" rel="noopener" class="rm-cv-list-title">Robot path planning</a>&nbsp;		</div>
 		<div>
 					</div>
 		<div class="rm-cv-list-author">
@@ -201,7 +201,7 @@ Collaborative work between a humanoid robot and a human
 	<div class="rm-cv-list-content">
 
 		<div>
-			<a href="https://researchmap.jp/masakazukobayashi/research_projects/8364949" target="_blank" rel="noopener" class="rm-cv-list-title">Group creativity support</a>&nbsp;		</div>
+			<a href="https://researchmap.jp/masakazukobayashi/research_projects/8364949" target="_blank" rel="noopener" target="_blank" rel="noopener" class="rm-cv-list-title">Group creativity support</a>&nbsp;		</div>
 		<div>
 					</div>
 		<div class="rm-cv-list-author">
@@ -215,7 +215,7 @@ Collaborative work between a humanoid robot and a human
 	<div class="rm-cv-list-content">
 
 		<div>
-			<a href="https://researchmap.jp/masakazukobayashi/research_projects/8364948" target="_blank" rel="noopener" class="rm-cv-list-title">Structural optimization</a>&nbsp;		</div>
+			<a href="https://researchmap.jp/masakazukobayashi/research_projects/8364948" target="_blank" rel="noopener" target="_blank" rel="noopener" class="rm-cv-list-title">Structural optimization</a>&nbsp;		</div>
 		<div>
 					</div>
 		<div class="rm-cv-list-author">
