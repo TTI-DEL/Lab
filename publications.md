@@ -6,10 +6,6 @@ permalink: /publication/
 
 For those interested in numbers, see  [research map profile](https://researchmap.jp/mkob/).
 
-We try to include links for all of our papers. Some of the links open PDFs, others direct you to a journal's site where that particular publication is available for download. If you cannot access one of our papers, let us know. The copyright notice for these papers is listed at the bottom of the page.
-
-
-
 
 ### Papers (34)
 
@@ -22,7 +18,7 @@ We try to include links for all of our papers. Some of the links open PDFs, othe
 
 <div class="rm-cv-list-content">
     <div>
-      <a href="/masakazukobayashi/published_papers/16908607" class="rm-cv-list-title">Reuse of kansei evaluation results for the aesthetic design of different types of products</a>&nbsp;			</div>
+      <a href="https://researchmap.jp/masakazukobayashi/published_papers/16908607" class="rm-cv-list-title">Reuse of kansei evaluation results for the aesthetic design of different types of products</a>&nbsp;			</div>
     <div class="rm-cv-list-author">
       Masakazu Kobayashi, Fumi Shibata			</div>
     <div>
@@ -38,7 +34,7 @@ We try to include links for all of our papers. Some of the links open PDFs, othe
 
 
     <div>
-      <a href="/masakazukobayashi/published_papers/16908606" class="rm-cv-list-title">Method for grouping of customers and aesthetic design based on rough set theory</a>&nbsp;			</div>
+      <a href="https://researchmap.jp/masakazukobayashi/published_papers/16908606" class="rm-cv-list-title">Method for grouping of customers and aesthetic design based on rough set theory</a>&nbsp;			</div>
     <div class="rm-cv-list-author">
       Masakazu Kobayashi, Kouki Niwa			</div>
     <div>
@@ -54,7 +50,7 @@ We try to include links for all of our papers. Some of the links open PDFs, othe
 
 
     <div>
-      <a href="/masakazukobayashi/published_papers/16908608" class="rm-cv-list-title">A method of gathering, selecting and hierarchizing kansei words for a hierarchized kansei model</a>&nbsp;			</div>
+      <a href="https://researchmap.jp/masakazukobayashi/published_papers/16908608" class="rm-cv-list-title">A method of gathering, selecting and hierarchizing kansei words for a hierarchized kansei model</a>&nbsp;			</div>
     <div class="rm-cv-list-author">
       Masakazu Kobayashi, Takuma Kinumura			</div>
     <div>
@@ -70,7 +66,7 @@ We try to include links for all of our papers. Some of the links open PDFs, othe
 
 
     <div>
-      <a href="/masakazukobayashi/published_papers/16908660" class="rm-cv-list-title">Exploration of Hints about a New Aesthetic Design Based on a Combination of Aesthetic Features of Existing Products</a>&nbsp;			</div>
+      <a href="https://researchmap.jp/masakazukobayashi/published_papers/16908660" class="rm-cv-list-title">Exploration of Hints about a New Aesthetic Design Based on a Combination of Aesthetic Features of Existing Products</a>&nbsp;			</div>
     <div class="rm-cv-list-author">
       小林 正和			</div>
     <div>
@@ -86,7 +82,7 @@ We try to include links for all of our papers. Some of the links open PDFs, othe
 
 
     <div>
-      <a href="/masakazukobayashi/published_papers/16908609" class="rm-cv-list-title">A Method for Supporting Aesthetic Design Based on the Analysis of the Relationships between Customer Kansei and Aesthetic Element</a>&nbsp;			</div>
+      <a href="https://researchmap.jp/masakazukobayashi/published_papers/16908609" class="rm-cv-list-title">A Method for Supporting Aesthetic Design Based on the Analysis of the Relationships between Customer Kansei and Aesthetic Element</a>&nbsp;			</div>
     <div class="rm-cv-list-author">
       Masakazu Kobayashi, Takuma Kinumura, Masatake Higashi			</div>
     <div>
@@ -102,7 +98,7 @@ We try to include links for all of our papers. Some of the links open PDFs, othe
 
 
     <div>
-      <a href="/masakazukobayashi/published_papers/16908610" class="rm-cv-list-title">Optimal Design of Component Layout and Fastening Methods for the Facilitation of Reuse and Recycle</a>&nbsp;			</div>
+      <a href="https://researchmap.jp/masakazukobayashi/published_papers/16908610" class="rm-cv-list-title">Optimal Design of Component Layout and Fastening Methods for the Facilitation of Reuse and Recycle</a>&nbsp;			</div>
     <div class="rm-cv-list-author">
       Masakazu Kobayashi, Hajime Horiuchi, Masatake Higashi			</div>
     <div>
@@ -118,7 +114,7 @@ We try to include links for all of our papers. Some of the links open PDFs, othe
 
 
     <div>
-      <a href="/masakazukobayashi/published_papers/29580645" class="rm-cv-list-title">Optimization of Assembly Processes of an Automobile Wire Harness</a>&nbsp;			</div>
+      <a href="https://researchmap.jp/masakazukobayashi/published_papers/29580645" class="rm-cv-list-title">Optimization of Assembly Processes of an Automobile Wire Harness</a>&nbsp;			</div>
     <div class="rm-cv-list-author">
       Masakazu Kobayashi, Yoshiya Hirano, Masatake Higashi			</div>
     <div>
@@ -134,7 +130,7 @@ We try to include links for all of our papers. Some of the links open PDFs, othe
 
 
     <div>
-      <a href="/masakazukobayashi/published_papers/16908612" class="rm-cv-list-title">Multi-criteria reliability-based design optimization for compliant mechanisms</a>&nbsp;			</div>
+      <a href="https://researchmap.jp/masakazukobayashi/published_papers/16908612" class="rm-cv-list-title">Multi-criteria reliability-based design optimization for compliant mechanisms</a>&nbsp;			</div>
     <div class="rm-cv-list-author">
       M. Kobayashi, M. Higashi			</div>
     <div>
@@ -150,7 +146,7 @@ We try to include links for all of our papers. Some of the links open PDFs, othe
 
 
     <div>
-      <a href="/masakazukobayashi/published_papers/16908611" class="rm-cv-list-title">Neural computing with concurrent synchrony</a>&nbsp;			</div>
+      <a href="https://researchmap.jp/masakazukobayashi/published_papers/16908611" class="rm-cv-list-title">Neural computing with concurrent synchrony</a>&nbsp;			</div>
     <div class="rm-cv-list-author">
       Victor Parque, Masakazu Kobayashi, Masatake Higashi			</div>
     <div>
@@ -166,7 +162,7 @@ We try to include links for all of our papers. Some of the links open PDFs, othe
 
 
     <div>
-      <a href="/masakazukobayashi/published_papers/16908595" class="rm-cv-list-title">Bijections for the Numeric Representation of Labeled Graphs</a>&nbsp;			</div>
+      <a href="https://researchmap.jp/masakazukobayashi/published_papers/16908595" class="rm-cv-list-title">Bijections for the Numeric Representation of Labeled Graphs</a>&nbsp;			</div>
     <div class="rm-cv-list-author">
       Victor Parque, Masakazu Kobayashi, Masatake Higashi			</div>
     <div>
@@ -182,7 +178,7 @@ We try to include links for all of our papers. Some of the links open PDFs, othe
 
 
     <div>
-      <a href="/masakazukobayashi/published_papers/16908594" class="rm-cv-list-title">Searching for Machine Modularity using Explorit</a>&nbsp;			</div>
+      <a href="https://researchmap.jp/masakazukobayashi/published_papers/16908594" class="rm-cv-list-title">Searching for Machine Modularity using Explorit</a>&nbsp;			</div>
     <div class="rm-cv-list-author">
       Victor Parque, Masakazu Kobayashi, Masatake Higashi			</div>
     <div>
@@ -198,7 +194,7 @@ We try to include links for all of our papers. Some of the links open PDFs, othe
 
 
     <div>
-      <a href="/masakazukobayashi/published_papers/29585444" class="rm-cv-list-title">Reinforced explorit on optimizing vehicle powertrains</a>&nbsp;			</div>
+      <a href="https://researchmap.jp/masakazukobayashi/published_papers/29585444" class="rm-cv-list-title">Reinforced explorit on optimizing vehicle powertrains</a>&nbsp;			</div>
     <div class="rm-cv-list-author">
       Victor Parque, Masakazu Kobayashi, Masatake Higashi			</div>
     <div>
@@ -214,7 +210,7 @@ We try to include links for all of our papers. Some of the links open PDFs, othe
 
 
     <div>
-      <a href="/masakazukobayashi/published_papers/16908532" class="rm-cv-list-title">環境配慮設計のための製品の階層的機能構造を考慮したモジュール構成最適化</a>&nbsp;			</div>
+      <a href="https://researchmap.jp/masakazukobayashi/published_papers/16908532" class="rm-cv-list-title">環境配慮設計のための製品の階層的機能構造を考慮したモジュール構成最適化</a>&nbsp;			</div>
     <div class="rm-cv-list-author">
       小林 正和, 松本 侑大, 東 正毅			</div>
     <div>
@@ -230,7 +226,7 @@ We try to include links for all of our papers. Some of the links open PDFs, othe
 
 
     <div>
-      <a href="/masakazukobayashi/published_papers/29839382" class="rm-cv-list-title">Boundary conditions for high-quality loop subdivision surfaces</a>&nbsp;			</div>
+      <a href="https://researchmap.jp/masakazukobayashi/published_papers/29839382" class="rm-cv-list-title">Boundary conditions for high-quality loop subdivision surfaces</a>&nbsp;			</div>
     <div class="rm-cv-list-author">
       Masatake Higashi, Shinji Seo, Masakazu Kobayashi, Tetsuo Oya			</div>
     <div>
@@ -246,7 +242,7 @@ We try to include links for all of our papers. Some of the links open PDFs, othe
 
 
     <div>
-      <a href="/masakazukobayashi/published_papers/16908597" class="rm-cv-list-title">INTEGRATED OPTIMIZATION OF PRODUCT DESIGN CONCEPT AND PRODUCT LIFECYCLE SCENARIO BASED ON GENETIC ALGORITHM</a>&nbsp;			</div>
+      <a href="https://researchmap.jp/masakazukobayashi/published_papers/16908597" class="rm-cv-list-title">INTEGRATED OPTIMIZATION OF PRODUCT DESIGN CONCEPT AND PRODUCT LIFECYCLE SCENARIO BASED ON GENETIC ALGORITHM</a>&nbsp;			</div>
     <div class="rm-cv-list-author">
       Masakazu Kobayashi, Masatake Higashi			</div>
     <div>
@@ -262,7 +258,7 @@ We try to include links for all of our papers. Some of the links open PDFs, othe
 
 
     <div>
-      <a href="/masakazukobayashi/published_papers/29823502" class="rm-cv-list-title">Efficient fitting of subdivision surfaces by simplified Newton method</a>&nbsp;			</div>
+      <a href="https://researchmap.jp/masakazukobayashi/published_papers/29823502" class="rm-cv-list-title">Efficient fitting of subdivision surfaces by simplified Newton method</a>&nbsp;			</div>
     <div class="rm-cv-list-author">
       Masatake Higashi, Daisuke Mori, Shinji Seo, Masakazu Kobayashi			</div>
     <div>
@@ -278,7 +274,7 @@ We try to include links for all of our papers. Some of the links open PDFs, othe
 
 
     <div>
-      <a href="/masakazukobayashi/published_papers/16908599" class="rm-cv-list-title">INTEGRATED OPTIMIZATION FOR SUPPORTING FUNCTIONAL AND LAYOUT DESIGNS DURING CONCEPTUAL DESIGN PHASE</a>&nbsp;			</div>
+      <a href="https://researchmap.jp/masakazukobayashi/published_papers/16908599" class="rm-cv-list-title">INTEGRATED OPTIMIZATION FOR SUPPORTING FUNCTIONAL AND LAYOUT DESIGNS DURING CONCEPTUAL DESIGN PHASE</a>&nbsp;			</div>
     <div class="rm-cv-list-author">
       Masakazu Kobayashi, Yuya Suzuki, Masatake Higashi			</div>
     <div>
@@ -294,7 +290,7 @@ We try to include links for all of our papers. Some of the links open PDFs, othe
 
 
     <div>
-      <a href="/masakazukobayashi/published_papers/16908598" class="rm-cv-list-title">INTEGRATED OPTIMIZATION OF FUNCTIONAL AND LAYOUT DESIGNS BASED ON GENETIC ALGORITHM Consideration of Carbon Emission troughout Product&#039;s Lifecycle</a>&nbsp;			</div>
+      <a href="https://researchmap.jp/masakazukobayashi/published_papers/16908598" class="rm-cv-list-title">INTEGRATED OPTIMIZATION OF FUNCTIONAL AND LAYOUT DESIGNS BASED ON GENETIC ALGORITHM Consideration of Carbon Emission troughout Product&#039;s Lifecycle</a>&nbsp;			</div>
     <div class="rm-cv-list-author">
       Masakazu Kobayashi, Masatake Higashi			</div>
     <div>
@@ -310,7 +306,7 @@ We try to include links for all of our papers. Some of the links open PDFs, othe
 
 
     <div>
-      <a href="/masakazukobayashi/published_papers/16908596" class="rm-cv-list-title">APPLICATION OF PARTICLE SWARM OPTIMIZATION TO ROBOT PATH PLANNING PROBLEM</a>&nbsp;			</div>
+      <a href="https://researchmap.jp/masakazukobayashi/published_papers/16908596" class="rm-cv-list-title">APPLICATION OF PARTICLE SWARM OPTIMIZATION TO ROBOT PATH PLANNING PROBLEM</a>&nbsp;			</div>
     <div class="rm-cv-list-author">
       Masakazu Kobayashi, Higashi Masatake			</div>
     <div>
@@ -326,7 +322,7 @@ We try to include links for all of our papers. Some of the links open PDFs, othe
 
 
     <div>
-      <a href="/masakazukobayashi/published_papers/16908533" class="rm-cv-list-title">概念設計支援のための機能構造とレイアウトの同時最適化</a>&nbsp;			</div>
+      <a href="https://researchmap.jp/masakazukobayashi/published_papers/16908533" class="rm-cv-list-title">概念設計支援のための機能構造とレイアウトの同時最適化</a>&nbsp;			</div>
     <div class="rm-cv-list-author">
       小林 正和, 鈴木 佑哉, 東 正毅			</div>
     <div>
@@ -347,7 +343,7 @@ We try to include links for all of our papers. Some of the links open PDFs, othe
 
 
 			<div>
-				<a href="/masakazukobayashi/published_papers/16908531" class="rm-cv-list-title">評価の個人差に着目したアイデア分析に基づく創造的コラボレーション支援(機械要素,潤滑,設計,生産加工,生産システムなど)</a>&nbsp;			</div>
+				<a href="https://researchmap.jp/masakazukobayashi/published_papers/16908531" class="rm-cv-list-title">評価の個人差に着目したアイデア分析に基づく創造的コラボレーション支援(機械要素,潤滑,設計,生産加工,生産システムなど)</a>&nbsp;			</div>
 			<div class="rm-cv-list-author">
 				小林 正和, 川上 拓也, 東 正毅			</div>
 			<div>
@@ -363,7 +359,7 @@ We try to include links for all of our papers. Some of the links open PDFs, othe
 
 
 			<div>
-				<a href="/masakazukobayashi/published_papers/16908793" class="rm-cv-list-title">COLLABORATION SUPPORT SYSTEM FOR ANALYZING INDIVIDUAL DIFFERENCES BASED ON DESIGNERS&#039; IDEA EVALUATION</a>&nbsp;			</div>
+				<a href="https://researchmap.jp/masakazukobayashi/published_papers/16908793" class="rm-cv-list-title">COLLABORATION SUPPORT SYSTEM FOR ANALYZING INDIVIDUAL DIFFERENCES BASED ON DESIGNERS&#039; IDEA EVALUATION</a>&nbsp;			</div>
 			<div class="rm-cv-list-author">
 				Masakazu Kobayashi, Masatake Higashi			</div>
 			<div>
@@ -379,7 +375,7 @@ We try to include links for all of our papers. Some of the links open PDFs, othe
 
 
 			<div>
-				<a href="/masakazukobayashi/published_papers/16908600" class="rm-cv-list-title">MULTI-STAGE DESIGN METHOD FOR PRACTICAL COMPLIANT MECHANISMS BY TOPOLOGY AND SHAPE OPTIMIZATIONS AND SHAPE CONVERSION METHOD UTILIZING LEVEL SET METHOD</a>&nbsp;			</div>
+				<a href="https://researchmap.jp/masakazukobayashi/published_papers/16908600" class="rm-cv-list-title">MULTI-STAGE DESIGN METHOD FOR PRACTICAL COMPLIANT MECHANISMS BY TOPOLOGY AND SHAPE OPTIMIZATIONS AND SHAPE CONVERSION METHOD UTILIZING LEVEL SET METHOD</a>&nbsp;			</div>
 			<div class="rm-cv-list-author">
 				Masakazu Kobayashi, Shinji Nishiwaki, Masatake Higashi			</div>
 			<div>
@@ -395,7 +391,7 @@ We try to include links for all of our papers. Some of the links open PDFs, othe
 
 
 			<div>
-				<a href="/masakazukobayashi/published_papers/16908534" class="rm-cv-list-title">データ包絡分析法を用いた概念設計における発想支援に関する研究(機械要素,潤滑,設計,生産加工,生産システムなど)</a>&nbsp;			</div>
+				<a href="https://researchmap.jp/masakazukobayashi/published_papers/16908534" class="rm-cv-list-title">データ包絡分析法を用いた概念設計における発想支援に関する研究(機械要素,潤滑,設計,生産加工,生産システムなど)</a>&nbsp;			</div>
 			<div class="rm-cv-list-author">
 				佐藤 大祐, 小林 正和, 宮下 朋之			</div>
 			<div>
@@ -411,7 +407,7 @@ We try to include links for all of our papers. Some of the links open PDFs, othe
 
 
 			<div>
-				<a href="/masakazukobayashi/published_papers/16908510" class="rm-cv-list-title">An innovative design method for compliant mechanisms combining structural optimisations and designer creativity</a>&nbsp;			</div>
+				<a href="https://researchmap.jp/masakazukobayashi/published_papers/16908510" class="rm-cv-list-title">An innovative design method for compliant mechanisms combining structural optimisations and designer creativity</a>&nbsp;			</div>
 			<div class="rm-cv-list-author">
 				Masakazu Kobayashi, Shinji Nishiwaki, Kazuhiro Izui, Masataka Yoshimura			</div>
 			<div>
@@ -427,7 +423,7 @@ We try to include links for all of our papers. Some of the links open PDFs, othe
 
 
 			<div>
-				<a href="/masakazukobayashi/published_papers/16908509" class="rm-cv-list-title">Feature-preserving anisotropic smoothing for meshes with large-scale noise</a>&nbsp;			</div>
+				<a href="https://researchmap.jp/masakazukobayashi/published_papers/16908509" class="rm-cv-list-title">Feature-preserving anisotropic smoothing for meshes with large-scale noise</a>&nbsp;			</div>
 			<div class="rm-cv-list-author">
 				Masatake Higashi, Tetsuo Oya, Tetsuro Sugiura, Masakazu Kobayashi			</div>
 			<div>
@@ -443,7 +439,7 @@ We try to include links for all of our papers. Some of the links open PDFs, othe
 
 
 			<div>
-				<a href="/masakazukobayashi/published_papers/16908508" class="rm-cv-list-title">機能要件と空間制約に基づく概念設計法</a>&nbsp;			</div>
+				<a href="https://researchmap.jp/masakazukobayashi/published_papers/16908508" class="rm-cv-list-title">機能要件と空間制約に基づく概念設計法</a>&nbsp;			</div>
 			<div class="rm-cv-list-author">
 				小林正和, 鍋野正幸, 東正毅			</div>
 			<div>
@@ -459,7 +455,7 @@ We try to include links for all of our papers. Some of the links open PDFs, othe
 
 
 			<div>
-				<a href="/masakazukobayashi/published_papers/29121987" class="rm-cv-list-title">Efficient interference calculation by tight bounding volumes</a>&nbsp;			</div>
+				<a href="https://researchmap.jp/masakazukobayashi/published_papers/29121987" class="rm-cv-list-title">Efficient interference calculation by tight bounding volumes</a>&nbsp;			</div>
 			<div class="rm-cv-list-author">
 				Masatake Higashi, Yasuyuki Suzuki, Takeshi Nogawa, Yoichi Sano, Masakazu Kobayashi			</div>
 			<div>
@@ -475,7 +471,7 @@ We try to include links for all of our papers. Some of the links open PDFs, othe
 
 
 			<div>
-				<a href="/masakazukobayashi/published_papers/16908542" class="rm-cv-list-title">包絡分析法に基づくコラボレーション設計支援</a>&nbsp;			</div>
+				<a href="https://researchmap.jp/masakazukobayashi/published_papers/16908542" class="rm-cv-list-title">包絡分析法に基づくコラボレーション設計支援</a>&nbsp;			</div>
 			<div class="rm-cv-list-author">
 				小林 正和, 宮下 朋之, 山川 宏, 吉村 允孝			</div>
 			<div>
@@ -491,7 +487,7 @@ We try to include links for all of our papers. Some of the links open PDFs, othe
 
 
 			<div>
-				<a href="/masakazukobayashi/published_papers/16908512" class="rm-cv-list-title">包絡分析法に基づくコラボレーション設計支援</a>&nbsp;			</div>
+				<a href="https://researchmap.jp/masakazukobayashi/published_papers/16908512" class="rm-cv-list-title">包絡分析法に基づくコラボレーション設計支援</a>&nbsp;			</div>
 			<div class="rm-cv-list-author">
 				小林正和, 宮下朋之, 山川宏, 吉村允孝			</div>
 			<div>
@@ -507,7 +503,7 @@ We try to include links for all of our papers. Some of the links open PDFs, othe
 
 
 			<div>
-				<a href="/masakazukobayashi/published_papers/16908513" class="rm-cv-list-title">Integrated Multi-step Design Method for Practical and Sophisticated Compliant Mechanisms Combining Topology and Shape Optimizations</a>&nbsp;			</div>
+				<a href="https://researchmap.jp/masakazukobayashi/published_papers/16908513" class="rm-cv-list-title">Integrated Multi-step Design Method for Practical and Sophisticated Compliant Mechanisms Combining Topology and Shape Optimizations</a>&nbsp;			</div>
 			<div class="rm-cv-list-author">
 				Masakazu Kobayashi, Shinji Nishiwaki, Hiroshi Yamakawa			</div>
 			<div>
@@ -523,7 +519,7 @@ We try to include links for all of our papers. Some of the links open PDFs, othe
 
 
 			<div>
-				<a href="/masakazukobayashi/published_papers/16908515" class="rm-cv-list-title">コミュニケーションプロセスの可視化に基づいたコラボレーション支援システムの構築</a>&nbsp;			</div>
+				<a href="https://researchmap.jp/masakazukobayashi/published_papers/16908515" class="rm-cv-list-title">コミュニケーションプロセスの可視化に基づいたコラボレーション支援システムの構築</a>&nbsp;			</div>
 			<div class="rm-cv-list-author">
 				小林正和, 吉村允孝, 泉井一浩			</div>
 			<div>
@@ -539,7 +535,7 @@ We try to include links for all of our papers. Some of the links open PDFs, othe
 
 
 			<div>
-				<a href="/masakazukobayashi/published_papers/16908514" class="rm-cv-list-title">設計者の創造性と最適設計法に基づいたコンプライアントメカニズムの創成設計法</a>&nbsp;			</div>
+				<a href="https://researchmap.jp/masakazukobayashi/published_papers/16908514" class="rm-cv-list-title">設計者の創造性と最適設計法に基づいたコンプライアントメカニズムの創成設計法</a>&nbsp;			</div>
 			<div class="rm-cv-list-author">
 				小林正和, 西脇眞二, 泉井一浩, 吉村允孝			</div>
 			<div>
@@ -555,7 +551,7 @@ We try to include links for all of our papers. Some of the links open PDFs, othe
 
 
 			<div>
-				<a href="/masakazukobayashi/published_papers/16908556" class="rm-cv-list-title">トポロジー最適化と形状最適化に基づいたコンプライアントメカニズムの多段階創成設計法</a>&nbsp;			</div>
+				<a href="https://researchmap.jp/masakazukobayashi/published_papers/16908556" class="rm-cv-list-title">トポロジー最適化と形状最適化に基づいたコンプライアントメカニズムの多段階創成設計法</a>&nbsp;			</div>
 			<div class="rm-cv-list-author">
 				小林 正和, 山下 進介, 西脇 眞二, 泉井 一浩, 吉村 允孝, 富田 直秀			</div>
 			<div>
@@ -578,7 +574,7 @@ We try to include links for all of our papers. Some of the links open PDFs, othe
 
 
 			<div>
-				<a href="/masakazukobayashi/presentations/32432216" class="rm-cv-list-title">On Path Planning using Log-Aesthetic Curves</a>&nbsp;			</div>
+				<a href="https://researchmap.jp/masakazukobayashi/presentations/32432216" class="rm-cv-list-title">On Path Planning using Log-Aesthetic Curves</a>&nbsp;			</div>
 			<div class="rm-cv-list-author">
 				Parque Victor, 小林 正和, 宮下 朋之, 東 正毅			</div>
 			<div>
@@ -594,7 +590,7 @@ We try to include links for all of our papers. Some of the links open PDFs, othe
 
 
 			<div>
-				<a href="/masakazukobayashi/presentations/4665350" class="rm-cv-list-title">美的B-spline曲線・曲面（第3報）:曲面の曲率と複合曲線・曲面への適用</a>&nbsp;			</div>
+				<a href="https://researchmap.jp/masakazukobayashi/presentations/4665350" class="rm-cv-list-title">美的B-spline曲線・曲面（第3報）:曲面の曲率と複合曲線・曲面への適用</a>&nbsp;			</div>
 			<div class="rm-cv-list-author">
 				東 正毅, 小林 正和, パルケ ビクトル, 土江 庄一			</div>
 			<div>
@@ -610,7 +606,7 @@ We try to include links for all of our papers. Some of the links open PDFs, othe
 
 
 			<div>
-				<a href="/masakazukobayashi/presentations/4665349" class="rm-cv-list-title">2203 UAVの操作性向上を目的とした操縦者に対する操作反力の提示(OS9-2 ヒューマンインタフェース・ユーザビリティ2)</a>&nbsp;			</div>
+				<a href="https://researchmap.jp/masakazukobayashi/presentations/4665349" class="rm-cv-list-title">2203 UAVの操作性向上を目的とした操縦者に対する操作反力の提示(OS9-2 ヒューマンインタフェース・ユーザビリティ2)</a>&nbsp;			</div>
 			<div class="rm-cv-list-author">
 				小林 正和			</div>
 			<div>
@@ -626,7 +622,7 @@ We try to include links for all of our papers. Some of the links open PDFs, othe
 
 
 			<div>
-				<a href="/masakazukobayashi/presentations/32584428" class="rm-cv-list-title">Homeostatic Learning Networks on Unknown Environments</a>&nbsp;			</div>
+				<a href="https://researchmap.jp/masakazukobayashi/presentations/32584428" class="rm-cv-list-title">Homeostatic Learning Networks on Unknown Environments</a>&nbsp;			</div>
 			<div class="rm-cv-list-author">
 				パルケ ビクトル, 小林 正和, 東 正毅			</div>
 			<div>
@@ -642,7 +638,7 @@ We try to include links for all of our papers. Some of the links open PDFs, othe
 
 
 			<div>
-				<a href="/masakazukobayashi/presentations/4665418" class="rm-cv-list-title">2110 分解性,締結方法および熱分布を考慮した製品レイアウト最適化(乗り物・交通・リサイクル)</a>&nbsp;			</div>
+				<a href="https://researchmap.jp/masakazukobayashi/presentations/4665418" class="rm-cv-list-title">2110 分解性,締結方法および熱分布を考慮した製品レイアウト最適化(乗り物・交通・リサイクル)</a>&nbsp;			</div>
 			<div class="rm-cv-list-author">
 				小林 正和, 東 正毅			</div>
 			<div>
@@ -658,7 +654,7 @@ We try to include links for all of our papers. Some of the links open PDFs, othe
 
 
 			<div>
-				<a href="/masakazukobayashi/presentations/4665353" class="rm-cv-list-title">美的B-spline曲線・曲面（第2報）:3次元曲線と曲面の生成</a>&nbsp;			</div>
+				<a href="https://researchmap.jp/masakazukobayashi/presentations/4665353" class="rm-cv-list-title">美的B-spline曲線・曲面（第2報）:3次元曲線と曲面の生成</a>&nbsp;			</div>
 			<div class="rm-cv-list-author">
 				東 正毅, PARQUE Victor, 小林 正和, 土江 庄一			</div>
 			<div>
@@ -674,7 +670,7 @@ We try to include links for all of our papers. Some of the links open PDFs, othe
 
 
 			<div>
-				<a href="/masakazukobayashi/presentations/4665352" class="rm-cv-list-title">美的B-spline曲線・曲面:定式化と曲線の実験</a>&nbsp;			</div>
+				<a href="https://researchmap.jp/masakazukobayashi/presentations/4665352" class="rm-cv-list-title">美的B-spline曲線・曲面:定式化と曲線の実験</a>&nbsp;			</div>
 			<div class="rm-cv-list-author">
 				東 正毅, Victor Parque, 小林 正和, 大家 哲朗			</div>
 			<div>
@@ -690,7 +686,7 @@ We try to include links for all of our papers. Some of the links open PDFs, othe
 
 
 			<div>
-				<a href="/masakazukobayashi/presentations/32584432" class="rm-cv-list-title">3105 A Generative Approach to Wire Harness Design</a>&nbsp;			</div>
+				<a href="https://researchmap.jp/masakazukobayashi/presentations/32584432" class="rm-cv-list-title">3105 A Generative Approach to Wire Harness Design</a>&nbsp;			</div>
 			<div class="rm-cv-list-author">
 				Victor Parque, Kobayashi Masakazu, Higashi Masatake			</div>
 			<div>
@@ -706,7 +702,7 @@ We try to include links for all of our papers. Some of the links open PDFs, othe
 
 
 			<div>
-				<a href="/masakazukobayashi/presentations/4665348" class="rm-cv-list-title">2307 製品の分解性向上のための製品レイアウトおよび部品間接続最適化手法</a>&nbsp;			</div>
+				<a href="https://researchmap.jp/masakazukobayashi/presentations/4665348" class="rm-cv-list-title">2307 製品の分解性向上のための製品レイアウトおよび部品間接続最適化手法</a>&nbsp;			</div>
 			<div class="rm-cv-list-author">
 				堀内 元, 小林 正和, 東 正毅			</div>
 			<div>
@@ -722,7 +718,7 @@ We try to include links for all of our papers. Some of the links open PDFs, othe
 
 
 			<div>
-				<a href="/masakazukobayashi/presentations/4665358" class="rm-cv-list-title">製品特性と環境負荷を考慮した製品概念とライフサイクルシナリオの同時最適化</a>&nbsp;			</div>
+				<a href="https://researchmap.jp/masakazukobayashi/presentations/4665358" class="rm-cv-list-title">製品特性と環境負荷を考慮した製品概念とライフサイクルシナリオの同時最適化</a>&nbsp;			</div>
 			<div class="rm-cv-list-author">
 				小林 正和, 東 正毅			</div>
 			<div>
@@ -738,7 +734,7 @@ We try to include links for all of our papers. Some of the links open PDFs, othe
 
 
 			<div>
-				<a href="/masakazukobayashi/presentations/4665357" class="rm-cv-list-title">自動車用ワイヤーハーネスの組立治具台における治具配置最適化</a>&nbsp;			</div>
+				<a href="https://researchmap.jp/masakazukobayashi/presentations/4665357" class="rm-cv-list-title">自動車用ワイヤーハーネスの組立治具台における治具配置最適化</a>&nbsp;			</div>
 			<div class="rm-cv-list-author">
 				平野 芳也, 小林 正和, 東 正毅			</div>
 			<div>
@@ -754,7 +750,7 @@ We try to include links for all of our papers. Some of the links open PDFs, othe
 
 
 			<div>
-				<a href="/masakazukobayashi/presentations/4665356" class="rm-cv-list-title">2217 自動車用ワイヤーハーネスの組立治具台における組立作業の最適化(OS6-4 設計と最適化IV)</a>&nbsp;			</div>
+				<a href="https://researchmap.jp/masakazukobayashi/presentations/4665356" class="rm-cv-list-title">2217 自動車用ワイヤーハーネスの組立治具台における組立作業の最適化(OS6-4 設計と最適化IV)</a>&nbsp;			</div>
 			<div class="rm-cv-list-author">
 				平野 芳也, 小林 正和, 東 正毅			</div>
 			<div>
@@ -770,7 +766,7 @@ We try to include links for all of our papers. Some of the links open PDFs, othe
 
 
 			<div>
-				<a href="/masakazukobayashi/presentations/4665355" class="rm-cv-list-title">1104 概念設計における分解性を考慮したレイアウト設計手法(OS9-1 ライフサイクル設計とサービス工学I 環境配慮設計)</a>&nbsp;			</div>
+				<a href="https://researchmap.jp/masakazukobayashi/presentations/4665355" class="rm-cv-list-title">1104 概念設計における分解性を考慮したレイアウト設計手法(OS9-1 ライフサイクル設計とサービス工学I 環境配慮設計)</a>&nbsp;			</div>
 			<div class="rm-cv-list-author">
 				堀内 元, 小林 正和, 東 正毅			</div>
 			<div>
@@ -786,7 +782,7 @@ We try to include links for all of our papers. Some of the links open PDFs, othe
 
 
 			<div>
-				<a href="/masakazukobayashi/presentations/4665354" class="rm-cv-list-title">1101 製品の階層的機能構造を考慮したモジュール構造最適化(OS9-1 ライフサイクル設計とサービス工学I 環境配慮設計)</a>&nbsp;			</div>
+				<a href="https://researchmap.jp/masakazukobayashi/presentations/4665354" class="rm-cv-list-title">1101 製品の階層的機能構造を考慮したモジュール構造最適化(OS9-1 ライフサイクル設計とサービス工学I 環境配慮設計)</a>&nbsp;			</div>
 			<div class="rm-cv-list-author">
 				松本 侑大, 小林 正和, Parque Victor, 東 正毅			</div>
 			<div>
@@ -802,7 +798,7 @@ We try to include links for all of our papers. Some of the links open PDFs, othe
 
 
 			<div>
-				<a href="/masakazukobayashi/presentations/4665363" class="rm-cv-list-title">2506 ペルソナの感性ワード選択による感性の定量化と製品設計への適用(OS11-2 感性と設計II,OS11 感性と設計)</a>&nbsp;			</div>
+				<a href="https://researchmap.jp/masakazukobayashi/presentations/4665363" class="rm-cv-list-title">2506 ペルソナの感性ワード選択による感性の定量化と製品設計への適用(OS11-2 感性と設計II,OS11 感性と設計)</a>&nbsp;			</div>
 			<div class="rm-cv-list-author">
 				山蔦 直渡, 小林 正和, 東 正毅			</div>
 			<div>
@@ -818,7 +814,7 @@ We try to include links for all of our papers. Some of the links open PDFs, othe
 
 
 			<div>
-				<a href="/masakazukobayashi/presentations/4665362" class="rm-cv-list-title">2410 製品の階層的機能構造を考慮したモジュール化設計手法(OS9-5 ライフサイクル設計とサービス工学V,OS9 ライフサイクル設計とサービス工学)</a>&nbsp;			</div>
+				<a href="https://researchmap.jp/masakazukobayashi/presentations/4665362" class="rm-cv-list-title">2410 製品の階層的機能構造を考慮したモジュール化設計手法(OS9-5 ライフサイクル設計とサービス工学V,OS9 ライフサイクル設計とサービス工学)</a>&nbsp;			</div>
 			<div class="rm-cv-list-author">
 				松本 侑大, 小林 正和, エドモンド ローリー, 東 正毅			</div>
 			<div>
@@ -834,7 +830,7 @@ We try to include links for all of our papers. Some of the links open PDFs, othe
 
 
 			<div>
-				<a href="/masakazukobayashi/presentations/4665361" class="rm-cv-list-title">2304 コンプライアントメカニズムを用いた自動車サスペンションの静-動的機能を考慮した構造最適設計法の検討(OS6-1 設計と最適化I-形状・形態設計-,OS6 設計と最適化)</a>&nbsp;			</div>
+				<a href="https://researchmap.jp/masakazukobayashi/presentations/4665361" class="rm-cv-list-title">2304 コンプライアントメカニズムを用いた自動車サスペンションの静-動的機能を考慮した構造最適設計法の検討(OS6-1 設計と最適化I-形状・形態設計-,OS6 設計と最適化)</a>&nbsp;			</div>
 			<div class="rm-cv-list-author">
 				於本 傑, 小林 正和, 東 正毅			</div>
 			<div>
@@ -850,7 +846,7 @@ We try to include links for all of our papers. Some of the links open PDFs, othe
 
 
 			<div>
-				<a href="/masakazukobayashi/presentations/4665360" class="rm-cv-list-title">2302 熱アクチュエータ型マイクロ流量調節バルブの最適設計法(OS6-1 設計と最適化I-形状・形態設計-,OS6 設計と最適化)</a>&nbsp;			</div>
+				<a href="https://researchmap.jp/masakazukobayashi/presentations/4665360" class="rm-cv-list-title">2302 熱アクチュエータ型マイクロ流量調節バルブの最適設計法(OS6-1 設計と最適化I-形状・形態設計-,OS6 設計と最適化)</a>&nbsp;			</div>
 			<div class="rm-cv-list-author">
 				小林 正和, 東 正毅			</div>
 			<div>
@@ -866,7 +862,7 @@ We try to include links for all of our papers. Some of the links open PDFs, othe
 
 
 			<div>
-				<a href="/masakazukobayashi/presentations/4665419" class="rm-cv-list-title">105 コンプライアントメカニズムに基づく自動車サスペンションの振動特性の検証</a>&nbsp;			</div>
+				<a href="https://researchmap.jp/masakazukobayashi/presentations/4665419" class="rm-cv-list-title">105 コンプライアントメカニズムに基づく自動車サスペンションの振動特性の検証</a>&nbsp;			</div>
 			<div class="rm-cv-list-author">
 				小林 正和			</div>
 			<div>
@@ -882,7 +878,7 @@ We try to include links for all of our papers. Some of the links open PDFs, othe
 
 
 			<div>
-				<a href="/masakazukobayashi/presentations/4665364" class="rm-cv-list-title">粒子群最適化に基づくロボット経路計画</a>&nbsp;			</div>
+				<a href="https://researchmap.jp/masakazukobayashi/presentations/4665364" class="rm-cv-list-title">粒子群最適化に基づくロボット経路計画</a>&nbsp;			</div>
 			<div class="rm-cv-list-author">
 				織田 昌弘, 小林 正和, 東 正毅			</div>
 			<div>
@@ -900,7 +896,7 @@ We try to include links for all of our papers. Some of the links open PDFs, othe
 
 
   			<div>
-  				<a href="/masakazukobayashi/presentations/4665372" class="rm-cv-list-title">概念設計支援のための機能構造とレイアウトの同時最適化</a>&nbsp;			</div>
+  				<a href="https://researchmap.jp/masakazukobayashi/presentations/4665372" class="rm-cv-list-title">概念設計支援のための機能構造とレイアウトの同時最適化</a>&nbsp;			</div>
   			<div class="rm-cv-list-author">
   				小林 正和, 鈴木 佑哉, 東 正毅			</div>
   			<div>
@@ -916,7 +912,7 @@ We try to include links for all of our papers. Some of the links open PDFs, othe
 
 
   			<div>
-  				<a href="/masakazukobayashi/presentations/4665370" class="rm-cv-list-title">最適化手法を用いたRRTによるロボットの経路計画</a>&nbsp;			</div>
+  				<a href="https://researchmap.jp/masakazukobayashi/presentations/4665370" class="rm-cv-list-title">最適化手法を用いたRRTによるロボットの経路計画</a>&nbsp;			</div>
   			<div class="rm-cv-list-author">
   				織田 昌弘, 小林 正和, 東 正毅			</div>
   			<div>
@@ -932,7 +928,7 @@ We try to include links for all of our papers. Some of the links open PDFs, othe
 
 
   			<div>
-  				<a href="/masakazukobayashi/presentations/4665369" class="rm-cv-list-title">離散ラプラシアンを用いたメッシュデータの平滑化（第８報）:より大きなノイズを含んだモデルにおける特徴保存</a>&nbsp;			</div>
+  				<a href="https://researchmap.jp/masakazukobayashi/presentations/4665369" class="rm-cv-list-title">離散ラプラシアンを用いたメッシュデータの平滑化（第８報）:より大きなノイズを含んだモデルにおける特徴保存</a>&nbsp;			</div>
   			<div class="rm-cv-list-author">
   				杉浦 哲郎, 大家 哲朗, 小林 正和, 東 正毅			</div>
   			<div>
@@ -948,7 +944,7 @@ We try to include links for all of our papers. Some of the links open PDFs, othe
 
 
   			<div>
-  				<a href="/masakazukobayashi/presentations/4665368" class="rm-cv-list-title">メッシュデータに対する高品質細分割曲面の制御メッシュ（第2報）:境界での接平面制御</a>&nbsp;			</div>
+  				<a href="https://researchmap.jp/masakazukobayashi/presentations/4665368" class="rm-cv-list-title">メッシュデータに対する高品質細分割曲面の制御メッシュ（第2報）:境界での接平面制御</a>&nbsp;			</div>
   			<div class="rm-cv-list-author">
   				瀬尾 真司, 森 大輔, 小林 正和, 東 正毅			</div>
   			<div>
@@ -964,7 +960,7 @@ We try to include links for all of our papers. Some of the links open PDFs, othe
 
 
   			<div>
-  				<a href="/masakazukobayashi/presentations/4665367" class="rm-cv-list-title">メッシュデータに対する高品質細分割曲面の制御メッシュ（第1報）:入力点から制御メッシュの決定</a>&nbsp;			</div>
+  				<a href="https://researchmap.jp/masakazukobayashi/presentations/4665367" class="rm-cv-list-title">メッシュデータに対する高品質細分割曲面の制御メッシュ（第1報）:入力点から制御メッシュの決定</a>&nbsp;			</div>
   			<div class="rm-cv-list-author">
   				森 大輔, 瀬尾 真司, 小林 正和, 東 正毅			</div>
   			<div>
@@ -980,7 +976,7 @@ We try to include links for all of our papers. Some of the links open PDFs, othe
 
 
   			<div>
-  				<a href="/masakazukobayashi/presentations/4665366" class="rm-cv-list-title">3108 アイデア発想支援のための設計者の個人差分析(OS11-2 設計プロセスのモデリングとマネジメントII,OS11 設計プロセスのモデリングとマネジメント)</a>&nbsp;			</div>
+  				<a href="https://researchmap.jp/masakazukobayashi/presentations/4665366" class="rm-cv-list-title">3108 アイデア発想支援のための設計者の個人差分析(OS11-2 設計プロセスのモデリングとマネジメントII,OS11 設計プロセスのモデリングとマネジメント)</a>&nbsp;			</div>
   			<div class="rm-cv-list-author">
   				小林 正和, 川上 拓也, 東 正毅			</div>
   			<div>
@@ -996,7 +992,7 @@ We try to include links for all of our papers. Some of the links open PDFs, othe
 
 
   			<div>
-  				<a href="/masakazukobayashi/presentations/4665365" class="rm-cv-list-title">2215 メッシュデータに対する高品質細分割曲面の当てはめ(OS4-2 自由曲面モデリング,OS4 デジタルエンジニアリング)</a>&nbsp;			</div>
+  				<a href="https://researchmap.jp/masakazukobayashi/presentations/4665365" class="rm-cv-list-title">2215 メッシュデータに対する高品質細分割曲面の当てはめ(OS4-2 自由曲面モデリング,OS4 デジタルエンジニアリング)</a>&nbsp;			</div>
   			<div class="rm-cv-list-author">
   				森 大輔, 瀬尾 真司, 小林 正和, 東 正毅			</div>
   			<div>
@@ -1012,7 +1008,7 @@ We try to include links for all of our papers. Some of the links open PDFs, othe
 
 
   			<div>
-  				<a href="/masakazukobayashi/presentations/4665379" class="rm-cv-list-title">コンプライアントメカニズムのサスペンションへの適用検証</a>&nbsp;			</div>
+  				<a href="https://researchmap.jp/masakazukobayashi/presentations/4665379" class="rm-cv-list-title">コンプライアントメカニズムのサスペンションへの適用検証</a>&nbsp;			</div>
   			<div class="rm-cv-list-author">
   				小林 正和, 清水 健人, 東 正毅			</div>
   			<div>
@@ -1028,7 +1024,7 @@ We try to include links for all of our papers. Some of the links open PDFs, othe
 
 
   			<div>
-  				<a href="/masakazukobayashi/presentations/4665378" class="rm-cv-list-title">ロボットシステムによる自閉児の共同注意の向上</a>&nbsp;			</div>
+  				<a href="https://researchmap.jp/masakazukobayashi/presentations/4665378" class="rm-cv-list-title">ロボットシステムによる自閉児の共同注意の向上</a>&nbsp;			</div>
   			<div class="rm-cv-list-author">
   				只野 克典, P. Ravindra De Silva, 齋藤 梓, 小林 正和, 東 正毅			</div>
   			<div>
@@ -1044,7 +1040,7 @@ We try to include links for all of our papers. Some of the links open PDFs, othe
 
 
   			<div>
-  				<a href="/masakazukobayashi/presentations/4665377" class="rm-cv-list-title">柔軟性を制御できるウェアラブル肘関節</a>&nbsp;			</div>
+  				<a href="https://researchmap.jp/masakazukobayashi/presentations/4665377" class="rm-cv-list-title">柔軟性を制御できるウェアラブル肘関節</a>&nbsp;			</div>
   			<div class="rm-cv-list-author">
   				小宮 忠久, 森園 哲也, 小林 正和, 東 正毅			</div>
   			<div>
@@ -1060,7 +1056,7 @@ We try to include links for all of our papers. Some of the links open PDFs, othe
 
 
   			<div>
-  				<a href="/masakazukobayashi/presentations/4665376" class="rm-cv-list-title">概念設計における機能要件と空間制約に基づく製品設計手法（第３報）:機能/手段ツリーを用いた設計の定量的要件の決定</a>&nbsp;			</div>
+  				<a href="https://researchmap.jp/masakazukobayashi/presentations/4665376" class="rm-cv-list-title">概念設計における機能要件と空間制約に基づく製品設計手法（第３報）:機能/手段ツリーを用いた設計の定量的要件の決定</a>&nbsp;			</div>
   			<div class="rm-cv-list-author">
   				鍋野 正幸, 小林 正和, 東 正毅			</div>
   			<div>
@@ -1076,7 +1072,7 @@ We try to include links for all of our papers. Some of the links open PDFs, othe
 
 
   			<div>
-  				<a href="/masakazukobayashi/presentations/4665375" class="rm-cv-list-title">三角形スプライン曲面の連続性の制御(第5報):非正則メッシュ上でのシャープフィーチャ生成</a>&nbsp;			</div>
+  				<a href="https://researchmap.jp/masakazukobayashi/presentations/4665375" class="rm-cv-list-title">三角形スプライン曲面の連続性の制御(第5報):非正則メッシュ上でのシャープフィーチャ生成</a>&nbsp;			</div>
   			<div class="rm-cv-list-author">
   				瀬尾 真司, 大家 哲朗, 小林 正和, 東 正毅			</div>
   			<div>
@@ -1092,7 +1088,7 @@ We try to include links for all of our papers. Some of the links open PDFs, othe
 
 
   			<div>
-  				<a href="/masakazukobayashi/presentations/4665374" class="rm-cv-list-title">ロボットシステムを用いた自閉児の動作模倣能力の獲得(第1報):ロボット動作模倣の処理法</a>&nbsp;			</div>
+  				<a href="https://researchmap.jp/masakazukobayashi/presentations/4665374" class="rm-cv-list-title">ロボットシステムを用いた自閉児の動作模倣能力の獲得(第1報):ロボット動作模倣の処理法</a>&nbsp;			</div>
   			<div class="rm-cv-list-author">
   				松本 亨, デシルバ ラビンドラ, 小林 正和, 東 正毅			</div>
   			<div>
@@ -1108,7 +1104,7 @@ We try to include links for all of our papers. Some of the links open PDFs, othe
 
 
   			<div>
-  				<a href="/masakazukobayashi/presentations/4665373" class="rm-cv-list-title">1206 コンプライアントメカニズムを用いたサスペンション設計法の検討</a>&nbsp;			</div>
+  				<a href="https://researchmap.jp/masakazukobayashi/presentations/4665373" class="rm-cv-list-title">1206 コンプライアントメカニズムを用いたサスペンション設計法の検討</a>&nbsp;			</div>
   			<div class="rm-cv-list-author">
   				小林 正和, 東 正毅			</div>
   			<div>
@@ -1124,7 +1120,7 @@ We try to include links for all of our papers. Some of the links open PDFs, othe
 
 
   			<div>
-  				<a href="/masakazukobayashi/presentations/4665384" class="rm-cv-list-title">コンプライアントメカニズムの2段階最適設計法における初期形状作成の自動化</a>&nbsp;			</div>
+  				<a href="https://researchmap.jp/masakazukobayashi/presentations/4665384" class="rm-cv-list-title">コンプライアントメカニズムの2段階最適設計法における初期形状作成の自動化</a>&nbsp;			</div>
   			<div class="rm-cv-list-author">
   				小林 正和, 平石 高之, 西脇 眞二, 東 正毅			</div>
   			<div>
@@ -1140,7 +1136,7 @@ We try to include links for all of our papers. Some of the links open PDFs, othe
 
 
   			<div>
-  				<a href="/masakazukobayashi/presentations/4665383" class="rm-cv-list-title">概念設計における機能要件と空間制約に基づく製品設計手法</a>&nbsp;			</div>
+  				<a href="https://researchmap.jp/masakazukobayashi/presentations/4665383" class="rm-cv-list-title">概念設計における機能要件と空間制約に基づく製品設計手法</a>&nbsp;			</div>
   			<div class="rm-cv-list-author">
   				鍋野 正幸, 小林 正和, 東 正毅			</div>
   			<div>
@@ -1156,7 +1152,7 @@ We try to include links for all of our papers. Some of the links open PDFs, othe
 
 
   			<div>
-  				<a href="/masakazukobayashi/presentations/4665382" class="rm-cv-list-title">コンプライアントメカニズムの2段階最適設計法における初期形状作成の自動化（第2報）:Level Set法による外形形状の抽出と特徴部位の認識</a>&nbsp;			</div>
+  				<a href="https://researchmap.jp/masakazukobayashi/presentations/4665382" class="rm-cv-list-title">コンプライアントメカニズムの2段階最適設計法における初期形状作成の自動化（第2報）:Level Set法による外形形状の抽出と特徴部位の認識</a>&nbsp;			</div>
   			<div class="rm-cv-list-author">
   				小林 正和, 西脇 眞二, 東 正毅			</div>
   			<div>
@@ -1172,7 +1168,7 @@ We try to include links for all of our papers. Some of the links open PDFs, othe
 
 
   			<div>
-  				<a href="/masakazukobayashi/presentations/4665381" class="rm-cv-list-title">概念設計における機能要件と空間制約に基づく製品設計手法（第２報）:機能分解に対応した空間制約の段階的な詳細化</a>&nbsp;			</div>
+  				<a href="https://researchmap.jp/masakazukobayashi/presentations/4665381" class="rm-cv-list-title">概念設計における機能要件と空間制約に基づく製品設計手法（第２報）:機能分解に対応した空間制約の段階的な詳細化</a>&nbsp;			</div>
   			<div class="rm-cv-list-author">
   				鍋野 正幸, 小林 正和, 東 正毅			</div>
   			<div>
@@ -1188,7 +1184,7 @@ We try to include links for all of our papers. Some of the links open PDFs, othe
 
 
   			<div>
-  				<a href="/masakazukobayashi/presentations/4665380" class="rm-cv-list-title">2314 コンプライアントメカニズムの2段階最適設計法におけるレベルセット法に基づく初期形状作成の自動化(OS7-1 システム最適化)</a>&nbsp;			</div>
+  				<a href="https://researchmap.jp/masakazukobayashi/presentations/4665380" class="rm-cv-list-title">2314 コンプライアントメカニズムの2段階最適設計法におけるレベルセット法に基づく初期形状作成の自動化(OS7-1 システム最適化)</a>&nbsp;			</div>
   			<div class="rm-cv-list-author">
   				小林 正和, 西脇 眞二, 東 正毅			</div>
   			<div>
@@ -1204,7 +1200,7 @@ We try to include links for all of our papers. Some of the links open PDFs, othe
 
 
   			<div>
-  				<a href="/masakazukobayashi/presentations/4665386" class="rm-cv-list-title">2段階最適設計法によるコンプライアントメカニズムの出力軌跡制御</a>&nbsp;			</div>
+  				<a href="https://researchmap.jp/masakazukobayashi/presentations/4665386" class="rm-cv-list-title">2段階最適設計法によるコンプライアントメカニズムの出力軌跡制御</a>&nbsp;			</div>
   			<div class="rm-cv-list-author">
   				小林 正和, 西脇 眞二, 吉村 允孝			</div>
   			<div>
@@ -1221,7 +1217,7 @@ We try to include links for all of our papers. Some of the links open PDFs, othe
 
 
     			<div>
-    				<a href="/masakazukobayashi/presentations/4665385" class="rm-cv-list-title">1P1-B22 トポロジー最適化と形状最適化に基づく実用的コンプライアントメカニズム創成のための多段階最適設計法</a>&nbsp;			</div>
+    				<a href="https://researchmap.jp/masakazukobayashi/presentations/4665385" class="rm-cv-list-title">1P1-B22 トポロジー最適化と形状最適化に基づく実用的コンプライアントメカニズム創成のための多段階最適設計法</a>&nbsp;			</div>
     			<div class="rm-cv-list-author">
     				小林 正和, 西脇 眞二, 山川 宏			</div>
     			<div>
@@ -1237,7 +1233,7 @@ We try to include links for all of our papers. Some of the links open PDFs, othe
 
 
     			<div>
-    				<a href="/masakazukobayashi/presentations/4665388" class="rm-cv-list-title">設計情報の再利用を考慮したコンプライアントメカニズムの創成設計法</a>&nbsp;			</div>
+    				<a href="https://researchmap.jp/masakazukobayashi/presentations/4665388" class="rm-cv-list-title">設計情報の再利用を考慮したコンプライアントメカニズムの創成設計法</a>&nbsp;			</div>
     			<div class="rm-cv-list-author">
     				小林 正和, 西脇 眞二, 吉村 允孝			</div>
     			<div>
@@ -1253,7 +1249,7 @@ We try to include links for all of our papers. Some of the links open PDFs, othe
 
 
     			<div>
-    				<a href="/masakazukobayashi/presentations/4665387" class="rm-cv-list-title">2104 設計者の創造性と多段階最適設計法に基づいたコンプライアントメカニズムの創成設計法(OS21 設計と最適化I)</a>&nbsp;			</div>
+    				<a href="https://researchmap.jp/masakazukobayashi/presentations/4665387" class="rm-cv-list-title">2104 設計者の創造性と多段階最適設計法に基づいたコンプライアントメカニズムの創成設計法(OS21 設計と最適化I)</a>&nbsp;			</div>
     			<div class="rm-cv-list-author">
     				小林 正和, 吉村 允孝, 西脇 眞二, 泉井 一浩			</div>
     			<div>
@@ -1269,7 +1265,7 @@ We try to include links for all of our papers. Some of the links open PDFs, othe
 
 
     			<div>
-    				<a href="/masakazukobayashi/presentations/4665394" class="rm-cv-list-title">トポロジー最適化手法と設計者の創造性に基づくコンプライアントメカニズムの創成設計法</a>&nbsp;			</div>
+    				<a href="https://researchmap.jp/masakazukobayashi/presentations/4665394" class="rm-cv-list-title">トポロジー最適化手法と設計者の創造性に基づくコンプライアントメカニズムの創成設計法</a>&nbsp;			</div>
     			<div class="rm-cv-list-author">
     				小林 正和, 西脇 眞二, 泉井 一浩, 吉村 允孝			</div>
     			<div>
@@ -1285,7 +1281,7 @@ We try to include links for all of our papers. Some of the links open PDFs, othe
 
 
     			<div>
-    				<a href="/masakazukobayashi/presentations/4665392" class="rm-cv-list-title">トポロジー最適化と形状最適化に基づくコンプライアントメカニズムの多段階創成設計法</a>&nbsp;			</div>
+    				<a href="https://researchmap.jp/masakazukobayashi/presentations/4665392" class="rm-cv-list-title">トポロジー最適化と形状最適化に基づくコンプライアントメカニズムの多段階創成設計法</a>&nbsp;			</div>
     			<div class="rm-cv-list-author">
     				小林 正和, 山下 進介, 西脇 眞二, 泉井 一浩, 吉村 允孝, 富田 直秀			</div>
     			<div>
@@ -1301,7 +1297,7 @@ We try to include links for all of our papers. Some of the links open PDFs, othe
 
 
     			<div>
-    				<a href="/masakazukobayashi/presentations/4665391" class="rm-cv-list-title">機械構造物の階層構造最適化(設計と最適化V)</a>&nbsp;			</div>
+    				<a href="https://researchmap.jp/masakazukobayashi/presentations/4665391" class="rm-cv-list-title">機械構造物の階層構造最適化(設計と最適化V)</a>&nbsp;			</div>
     			<div class="rm-cv-list-author">
     				小林 正和, 西脇 眞二, 丸山 新一, 泉井 一浩, 吉村 孝			</div>
     			<div>
@@ -1317,7 +1313,7 @@ We try to include links for all of our papers. Some of the links open PDFs, othe
 
 
     			<div>
-    				<a href="/masakazukobayashi/presentations/4665390" class="rm-cv-list-title">創造的コラボレーション支援のためのコミュニケーション可視化システム(コラボレーション・コンカレント設計)</a>&nbsp;			</div>
+    				<a href="https://researchmap.jp/masakazukobayashi/presentations/4665390" class="rm-cv-list-title">創造的コラボレーション支援のためのコミュニケーション可視化システム(コラボレーション・コンカレント設計)</a>&nbsp;			</div>
     			<div class="rm-cv-list-author">
     				小林 正和, 吉村 允孝, 西脇 眞二, 泉井 一浩			</div>
     			<div>
@@ -1333,7 +1329,7 @@ We try to include links for all of our papers. Some of the links open PDFs, othe
 
 
     			<div>
-    				<a href="/masakazukobayashi/presentations/4665389" class="rm-cv-list-title">コンプライアントメカニズム設計のための多段階創成設計法(J20-3 デジタルエンジニアリングによる製品開発革新(3),J20 デジタルエンジニアリングによる製品開発革新)</a>&nbsp;			</div>
+    				<a href="https://researchmap.jp/masakazukobayashi/presentations/4665389" class="rm-cv-list-title">コンプライアントメカニズム設計のための多段階創成設計法(J20-3 デジタルエンジニアリングによる製品開発革新(3),J20 デジタルエンジニアリングによる製品開発革新)</a>&nbsp;			</div>
     			<div class="rm-cv-list-author">
     				小林 正和, 山下 進介, 西脇 眞二, 泉井 一浩, 吉村 允孝, 富田 直秀			</div>
     			<div>
@@ -1349,7 +1345,7 @@ We try to include links for all of our papers. Some of the links open PDFs, othe
 
 
     			<div>
-    				<a href="/masakazukobayashi/presentations/4665395" class="rm-cv-list-title">2209 コミュニケーション構造の視覚化に基づいた創造的コラボレーション支援</a>&nbsp;			</div>
+    				<a href="https://researchmap.jp/masakazukobayashi/presentations/4665395" class="rm-cv-list-title">2209 コミュニケーション構造の視覚化に基づいた創造的コラボレーション支援</a>&nbsp;			</div>
     			<div class="rm-cv-list-author">
     				小林 正和, 吉村 允孝, 西脇 眞二, 泉井 一浩			</div>
     			<div>
@@ -1365,7 +1361,7 @@ We try to include links for all of our papers. Some of the links open PDFs, othe
 
 
     			<div>
-    				<a href="/masakazukobayashi/presentations/4665396" class="rm-cv-list-title">2304 グループ発想手法の構築によるコラボレーション支援</a>&nbsp;			</div>
+    				<a href="https://researchmap.jp/masakazukobayashi/presentations/4665396" class="rm-cv-list-title">2304 グループ発想手法の構築によるコラボレーション支援</a>&nbsp;			</div>
     			<div class="rm-cv-list-author">
     				小林 正和, 吉村 允孝, 西脇 眞二, 泉井 一浩			</div>
     			<div>
@@ -1381,7 +1377,7 @@ We try to include links for all of our papers. Some of the links open PDFs, othe
 
 
     			<div>
-    				<a href="/masakazukobayashi/presentations/4665398" class="rm-cv-list-title">2106 デザイナー間のインタラクションと発想支援に基づいた創造的コラボレーション</a>&nbsp;			</div>
+    				<a href="https://researchmap.jp/masakazukobayashi/presentations/4665398" class="rm-cv-list-title">2106 デザイナー間のインタラクションと発想支援に基づいた創造的コラボレーション</a>&nbsp;			</div>
     			<div class="rm-cv-list-author">
     				小林 正和, 吉村 允孝, 泉井 一浩			</div>
     			<div>
@@ -1397,7 +1393,7 @@ We try to include links for all of our papers. Some of the links open PDFs, othe
 
 
     			<div>
-    				<a href="/masakazukobayashi/presentations/4665397" class="rm-cv-list-title">1106 デザイナー間の協調と対立の分析に基づいた発想支援システム(OS04-1/コラボレーション・コンカレント設計(1))(OS04/コラボレーション・コンカレント設計)</a>&nbsp;			</div>
+    				<a href="https://researchmap.jp/masakazukobayashi/presentations/4665397" class="rm-cv-list-title">1106 デザイナー間の協調と対立の分析に基づいた発想支援システム(OS04-1/コラボレーション・コンカレント設計(1))(OS04/コラボレーション・コンカレント設計)</a>&nbsp;			</div>
     			<div class="rm-cv-list-author">
     				小林 正和, 吉村 允孝, 泉井 一浩			</div>
     			<div>
@@ -1422,7 +1418,7 @@ We try to include links for all of our papers. Some of the links open PDFs, othe
 	<div class="rm-cv-list-content">
 
 		<div>
-			<a href="/masakazukobayashi/research_projects/8364957" class="rm-cv-list-title">概念設計段階におけるライフサイクル最適化</a>&nbsp;		</div>
+			<a href="https://researchmap.jp/masakazukobayashi/research_projects/8364957" class="rm-cv-list-title">概念設計段階におけるライフサイクル最適化</a>&nbsp;		</div>
 		<div>
 					</div>
 		<div class="rm-cv-list-author">
@@ -1436,7 +1432,7 @@ We try to include links for all of our papers. Some of the links open PDFs, othe
 	<div class="rm-cv-list-content">
 
 		<div>
-			<a href="/masakazukobayashi/research_projects/8364956" class="rm-cv-list-title">概念設計CAD</a>&nbsp;		</div>
+			<a href="https://researchmap.jp/masakazukobayashi/research_projects/8364956" class="rm-cv-list-title">概念設計CAD</a>&nbsp;		</div>
 		<div>
 					</div>
 		<div class="rm-cv-list-author">
@@ -1450,7 +1446,7 @@ We try to include links for all of our papers. Some of the links open PDFs, othe
 	<div class="rm-cv-list-content">
 
 		<div>
-			<a href="/masakazukobayashi/research_projects/8364955" class="rm-cv-list-title">ロボット経路計画法</a>&nbsp;		</div>
+			<a href="https://researchmap.jp/masakazukobayashi/research_projects/8364955" class="rm-cv-list-title">ロボット経路計画法</a>&nbsp;		</div>
 		<div>
 					</div>
 		<div class="rm-cv-list-author">
@@ -1464,7 +1460,7 @@ We try to include links for all of our papers. Some of the links open PDFs, othe
 	<div class="rm-cv-list-content">
 
 		<div>
-			<a href="/masakazukobayashi/research_projects/8364954" class="rm-cv-list-title">コラボレーション環境下における創造性支援</a>&nbsp;		</div>
+			<a href="https://researchmap.jp/masakazukobayashi/research_projects/8364954" class="rm-cv-list-title">コラボレーション環境下における創造性支援</a>&nbsp;		</div>
 		<div>
 					</div>
 		<div class="rm-cv-list-author">
@@ -1478,7 +1474,7 @@ We try to include links for all of our papers. Some of the links open PDFs, othe
 	<div class="rm-cv-list-content">
 
 		<div>
-			<a href="/masakazukobayashi/research_projects/8364953" class="rm-cv-list-title">構造最適化</a>&nbsp;		</div>
+			<a href="https://researchmap.jp/masakazukobayashi/research_projects/8364953" class="rm-cv-list-title">構造最適化</a>&nbsp;		</div>
 		<div>
 					</div>
 		<div class="rm-cv-list-author">
@@ -1492,7 +1488,7 @@ We try to include links for all of our papers. Some of the links open PDFs, othe
 	<div class="rm-cv-list-content">
 
 		<div>
-			<a href="/masakazukobayashi/research_projects/8364952" class="rm-cv-list-title">Lifecycle optimization for conceptual design</a>&nbsp;		</div>
+			<a href="https://researchmap.jp/masakazukobayashi/research_projects/8364952" class="rm-cv-list-title">Lifecycle optimization for conceptual design</a>&nbsp;		</div>
 		<div>
 					</div>
 		<div class="rm-cv-list-author">
@@ -1506,7 +1502,7 @@ We try to include links for all of our papers. Some of the links open PDFs, othe
 	<div class="rm-cv-list-content">
 
 		<div>
-			<a href="/masakazukobayashi/research_projects/8364951" class="rm-cv-list-title">Conceptual design CAD</a>&nbsp;		</div>
+			<a href="https://researchmap.jp/masakazukobayashi/research_projects/8364951" class="rm-cv-list-title">Conceptual design CAD</a>&nbsp;		</div>
 		<div>
 					</div>
 		<div class="rm-cv-list-author">
@@ -1520,7 +1516,7 @@ We try to include links for all of our papers. Some of the links open PDFs, othe
 	<div class="rm-cv-list-content">
 
 		<div>
-			<a href="/masakazukobayashi/research_projects/8364950" class="rm-cv-list-title">Robot path planning</a>&nbsp;		</div>
+			<a href="https://researchmap.jp/masakazukobayashi/research_projects/8364950" class="rm-cv-list-title">Robot path planning</a>&nbsp;		</div>
 		<div>
 					</div>
 		<div class="rm-cv-list-author">
@@ -1534,7 +1530,7 @@ We try to include links for all of our papers. Some of the links open PDFs, othe
 	<div class="rm-cv-list-content">
 
 		<div>
-			<a href="/masakazukobayashi/research_projects/8364949" class="rm-cv-list-title">Group creativity support</a>&nbsp;		</div>
+			<a href="https://researchmap.jp/masakazukobayashi/research_projects/8364949" class="rm-cv-list-title">Group creativity support</a>&nbsp;		</div>
 		<div>
 					</div>
 		<div class="rm-cv-list-author">
@@ -1548,7 +1544,7 @@ We try to include links for all of our papers. Some of the links open PDFs, othe
 	<div class="rm-cv-list-content">
 
 		<div>
-			<a href="/masakazukobayashi/research_projects/8364948" class="rm-cv-list-title">Structural optimization</a>&nbsp;		</div>
+			<a href="https://researchmap.jp/masakazukobayashi/research_projects/8364948" class="rm-cv-list-title">Structural optimization</a>&nbsp;		</div>
 		<div>
 					</div>
 		<div class="rm-cv-list-author">
@@ -1563,9 +1559,7 @@ We try to include links for all of our papers. Some of the links open PDFs, othe
 
 
 
-    ### Copyright Notice
 
-    The documents listed here are available for downloading and have been provided as a means to ensure timely dissemination of scholarly and technical work on a noncommercial basis. Copyright and all rights therein are maintained by the authors or by other copyright holders, notwithstanding that they have offered their works here electronically. It is understood that all persons copying this information will adhere to the terms and constraints invoked by each author's copyright. These works may not be re-posted without the explicit permission of the copyright holder.
 
 
 
