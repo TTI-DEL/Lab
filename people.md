@@ -61,61 +61,9 @@ permalink: /people/
 
 | Who are they | When were they here | Where they went |
 | :------------- |:-------------| :-----------|
-| [Ben Lansdell](http://benlansdell.github.io) | Postdoc (2017 - 2020) | Data Scientist at St. Jude Children's Research Hospital |
-| [David Rolnick](https://TTI-DEL.github.io/Lab/people/david_rolnick/index.html) | Postdoc (2018 - 2020) | [Assistant Professor](http://www.davidrolnick.com), Computer Science, McGill University and Mila |
-| [Shaofei Wang](https://TTI-DEL.github.io/Lab/people/shaofei_wang/index.html) | Researcher (2018 - 2020) | PhD Student, Computer Science, ETH Zurich |
-| [Ethan Blackwood](https://TTI-DEL.github.io/Lab/people/ethan_blackwood/index.html) | Rotation Student (2019) | Alex Proekt's Lab at UPenn |
-| [Steve Antos](https://TTI-DEL.github.io/Lab/people/steve_antos/index.html) | Graduate Student (2012 - 2019) | Analytics Developer |
-| [Sofia Triantafillou](https://www.dbmi.pitt.edu/node/54091) | Postdoc (2016 - 2018) | Assistant Professor of Biomedical Informatics at University of Pittsburgh |
-| [Gaiqing Kong](https://gaiqingkong.github.io/) | Visiting Scholar (2016 - 2018) | Fyssen Foundation Postdoc at INSERM, France |
-| [Claire Chambers](https://TTI-DEL.github.io/Lab/people/claire_chambers/index.html)  | Postdoc (2015 - 2018) | Data Scientist in Ireland |
-| [Josh Glaser](https://jglaser2.github.io) | Graduate Student (2012 - 2018) | Postdoc at Columbia |
-| [Daniel Wood](https://TTI-DEL.github.io/Lab/people/daniel_wood/index.html) | Postdoc (2014 - 2017) | Data Scientist at SharpestMinds |
-| [Bahram Yoosefizonooz](https://TTI-DEL.github.io/Lab/people/bahram_yoosefizonooz/index.html) | Visiting (2017) | NavInfo Europe |
-| Elahe Arani | Visiting (2017) | NavInfo Europe |
-| [Luca Lonini](https://TTI-DEL.github.io/Lab/people/luca_lonini/index.html) | Postdoc (2017) | Research Scientist at Shirley Ryan Ability Lab |
-| [Ravi Garg](https://TTI-DEL.github.io/Lab/people/ravi_garg/index.html) | Undergrad Research | MBA Candidate at Kellogg School |
-| [Sohrob Saeb](https://TTI-DEL.github.io/Lab/people/sohrob_saeb/index.html) | Postdoc (2014 - 2017) | Data Scientist at Verily |
-| [Eva Dyer](https://TTI-DEL.github.io/Lab/people/eva_dyer/index.html) | Postdoc (2017) | Assistant Professor of Biomedical Engineering at Georgia Tech and Emory U |
-| [Pavan Ramkumar](https://TTI-DEL.github.io/Lab/people/pavan_ramkumar/index.html) | Postdoc (2017) | Director of ML at Herophilus |
-| [Ted Cybulski](https://TTI-DEL.github.io/Lab/people/ted_cybulski/index.html) | Graduate Student (2012 - 2017) | Internal Medicine Resident at Northwestern |
-| Xuelong Zhao | Postdoc (2016) | Postdoc at [Brian Litt  lab](http://littlab.seas.upenn.edu/), U Penn |
-| [Pat Lawlor](https://TTI-DEL.github.io/Lab/people/pat_lawlor/index.html) | Graduate student (2016) | Resident Physician at Children's Hospital of Philadelphia |
-| [Hugo Fernandes](https://TTI-DEL.github.io/Lab/people/hugo_fernandes/index.html) | Postdoc (2016) | [rockets of awesome](https://www.rocketsofawesome.com/) |
-| [Torben Noto](https://TTI-DEL.github.io/Lab/people/torben_noto/index.html) | Rotation Student (2016) | PhD Student w/ Christina Zelano at Northwestern |
-| [Vivek Sagar](https://TTI-DEL.github.io/Lab/people/vivek_sagar/index.html) | Rotation Student (2016) | PhD Student w/ Thorsten Kahnt at Northwestern |
-| [David Brandfonbrener](https://TTI-DEL.github.io/Lab/people/david_brandfonbrener/index.html) | Visiting Scholar (2016)  | PhD Student w/ Joan Bruna at NYU |
-| [Daniel E. Acuna](https://TTI-DEL.github.io/Lab/people/daniel_e_acuna/index.html) | Postdoc (2016) | Assistant Professor of [iSchool at Syracuse](https://ischool.syr.edu/people/directories/view/deacuna/) |
-| [Mohammad Azar](http://mgazar.net/academic/) | Postdoc (2016) | Google Deepmind, London |
-| [Cong Yin (Lily)](https://TTI-DEL.github.io/Lab/people/cong_yin/index.html) | Visiting scholar (2015-2016) | Peking University |
-| [Youguo Chen](https://scholar.google.com/citations?user=wZQdEFAAAAAJ&hl=zh-CN) | Visiting scholar (2014 - 2015) | Associate Professor, Southwest University, Chongqing, China |
-| [Max Berniker](http://sensorimotorcontrolatorium.uic.edu/)   | Postdoc (2014) | Data Scientist at Intuitive |
-| [Mathieu d'Acremont](https://scholar.google.com/citations?user=D7ys4VQAAAAJ&hl=en) | Postdoc (2014) | Lead Data Scientist at CVS Health |
-| [Iris Vilares](https://scholar.google.com/citations?user=Ztwn608AAAAJ&hl=en)   | Graduate Student (2009-2013) | Assistant Professor of Psychology at University of Minnesota |
-| Ben Walker     | Research Engineer (2010-2013) | MS in ME at Northwestern University, Masanet lab |
-| Bill Lotter    | Research Scientist (2012-2013)| PhD at MIT |
-| Mark Albert	   | (Dec 2009 - Dec 2012) | Asst Prof, Loyola University, Computer Science |
-| Yoshiyuki (Yoshi) Sato | Visiting Professor (2012 - 2013) | Asst Prof, Univ of Electro-Communications, Tokyo |
-| Petra Conaway	Clinical | Coordinator (2012) | Continuing her work at RIC |
-| Rich Li | Rotation Student (Fall 2012) | Continuing Rotations |
-| James Ellis | Rotation Student (Fall 2012) | Continuing Rotations |
-| Hamid Buini | Summer Intern (2012) | University of Southern Florida |
-| AmberLace Moore | Summer Intern (2012) | Spelman College |
-| Mayowa Agbaje-Williams | Clinical Coordinator (Summer 2012) | Univ. Illinois Chicago School of Pharmacy |
-| Florian Neubauer | Visiting Scholar (2011 - 2012) | PostDoc in Switerland |
-| Qiang (Chris) Chen | Rotation Student (Spring 2012) | Raphael Pinaud's lab at Northwestern |
-| Ranit Sengupta | Rotation Student (Fall 2011) | Data Analyst |
-| [Ian Stevenson](http://stevenson.lab.uconn.edu/) | Grad Student (2006-2011) | Associate Professor of Psychology at University of Connecticut |
-| Andrew Cichowski | MD rotation student (Summer 2011) | Neurologist at Guadalupe Regional Medical Center |
-| James Howard | Rotation Student (Winter 2009) | Assistant Professor of Psychology at Brandeis University |
-| Kunlin Wei | Postdoc (2006-2009) | Professor of Psychology and Cog Sci at Peking University |
-| Ricardo Ruiz Torres | Rotation Student (Spring 2009) | Vicarious Surgical Inc. |
-| Gregory Dam | Grad Student (2006-2009) | Assistant Professor of Psychology at Indiana University |
-| Daniel Wert | SINE Intern (2008) | ALIVE Industries |
-| Nicholas Bowman | Rotation Student (Winter 2007) | Senior Data Scientist at IsoPlexis |
-| Taro Kiritani | Rotation Student (Winter 2007) | ExaWizards Inc. in Tokyo |
-| Rashmi Sarnaik | Rotation Student (Winter 2007) | Scientific Editor at Neuron |
-| Emily Oby | Rotation Student (Fall 2006) | Postdoc w/ Aaron Batista at University of Pittsburgh |
+| [fistname Lastname](https://Link.com) | lab position (2017 - 2020) | new position |
+| [fistname Lastname](https://Link.com) | lab position (2017 - 2020) | [institution](https://Link.com)new position |
+
 
 {% endif %}
 {% endfor %}
