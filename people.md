@@ -57,19 +57,13 @@ permalink: /people/
 
 <br>
 
-
+<!--
 
 | Who are they | When were they here | Where they went |
 | :------------- |:-------------| :-----------|
-| [fistname Lastname](https://Link.com) | lab position (2017 - 2020) | new position |
-| [fistname Lastname](https://Link.com) | lab position (2017 - 2020) | [institution](https://Link.com)new position |
-
+| [Firstname Lastname](https://Link.com) | lab position (2017 - 2020) | new position |
+| [Firstname Lastname](https://Link.com) | lab position (2017 - 2020) | [institution ](https://Link.com)new position |
+-->
 
 {% endif %}
 {% endfor %}
-
-<!--
-
-
-
--->
