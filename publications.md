@@ -12,16 +12,6 @@ We try to include links for all of our papers. Some of the links open PDFs, othe
 
 <hr>
 
-<ul class="dropdown-menu" role="menu">
-  <li><a href="/masakazukobayashi/published_papers?start=1&amp;limit=20">20件</a></li><li><a href="/masakazukobayashi/published_papers?start=1&amp;limit=50">50件</a></li><li><a href="/masakazukobayashi/published_papers?start=1&amp;limit=100">100件</a></li>	</ul>
-</span>
-          </div>
-
-                <ul class="rm-cv-list-group">
-      <li class="list-group-item rm-cv-disclosed rm-cv-type-myself rm-cv-created">
-
-<div class="rm-cv-list-content">
-
 
     <div>
       <a href="/masakazukobayashi/published_papers/16908607" class="rm-cv-list-title">Reuse of kansei evaluation results for the aesthetic design of different types of products</a>&nbsp;			</div>
