@@ -1,25 +1,24 @@
 ---
-name: Konrad Kording
+name: Masakazu Kobayashi
 position: pi
-avatar: konrad_profile_3.jpg
-twitter: KordingLab
+avatar: masakazu_kobayashi.jpg
+twitter: DEL_TTI
 ---
 
 <img width="300" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
 
-- _Penn Integrated Knowledge Professor, University of Pennsylvania_<br>
-- _Science coach. Collaborator. Transdisciplinary optimist._
+- _Structural optimization, Conceptual design support_<br>
+- _Creativity support._
 
-<i class="fa fa-envelope-o"></i> `kording@upenn.edu`
+<i class="fa fa-envelope-o"></i> `kobayashi@toyota-ti.ac.jp`
 
 **Office**<br>
-404B Richards, 3700 Hamilton Walk <br>
-Philadelphia, PA 19104
+〒468-8511 Aichi, Nagoya, Tempaku Ward, Hisakata, 2 Chome−12−1 <br>
+Department of Mechanical Systems Engineering at Toyota Technological Institute
 
-[Konrad Kording](http://koerding.com/) runs his lab at the University of Pennsylvania.
-Konrad is interested in the question of how the brain solves the credit assignment problem and
-similarly how we should assign credit in the real world (through causality). In extension
-of this main thrust he is interested in applications of causality in biomedical research.
-Konrad has trained as student at ETH Zurich with Peter Konig, as postdoc at UCL London with Daniel
-Wolpert and at MIT with Josh Tenenbaum. After a decade at Northwestern University he is now
-PIK professor at UPenn.
+[Masakazu Kobayashi](https://www.toyota-ti.ac.jp/english/research/staff/mech/post-47.html)
+Optimal design of a flow control valve based on a thermal actuated compliant mechanism
+Optimal design of a vehicle suspension based on a compliant mechanism
+Conceptual design CAD based on the cooperation between functional and shape designs
+Conceptual design optimization considering product lifecycle
+Support of designers' creativity under collaboration environment
