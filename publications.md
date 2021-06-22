@@ -12,7 +12,9 @@ We try to include links for all of our papers. Some of the links open PDFs, othe
 
 <hr>
 
+<li class="list-group-item rm-cv-disclosed rm-cv-type-myself rm-cv-modified">
 
+<div class="rm-cv-list-content">
     <div>
       <a href="/masakazukobayashi/published_papers/16908607" class="rm-cv-list-title">Reuse of kansei evaluation results for the aesthetic design of different types of products</a>&nbsp;			</div>
     <div class="rm-cv-list-author">
