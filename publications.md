@@ -4,9 +4,7 @@ permalink: /publication/
 ---
 
 
-coming soon
-
-For those interested in numbers, see  [google scholar citations profile](https://scholar.google.com/citations?user=MiFqJGcAAAAJ).
+For those interested in numbers, see  [google scholar citations profile](https://scholar.google.com/dddddddddddddddddddddddd).
 
 We try to include links for all of our papers. Some of the links open PDFs, others direct you to a journal's site where that particular publication is available for download. If you cannot access one of our papers, let us know. The copyright notice for these papers is listed at the bottom of the page.
 
@@ -330,6 +328,243 @@ We try to include links for all of our papers. Some of the links open PDFs, othe
     </div>
 
 </li>
+
+
+
+
+
+
+
+
+
+<ul class="rm-cv-list-group">
+				<li class="list-group-item rm-cv-disclosed rm-cv-type-myself rm-cv-modified">
+
+	<div class="rm-cv-list-content">
+
+
+			<div>
+				<a href="/masakazukobayashi/published_papers/16908531" class="rm-cv-list-title">評価の個人差に着目したアイデア分析に基づく創造的コラボレーション支援(機械要素,潤滑,設計,生産加工,生産システムなど)</a>&nbsp;			</div>
+			<div class="rm-cv-list-author">
+				小林 正和, 川上 拓也, 東 正毅			</div>
+			<div>
+				日本機械学会論文集 C編&nbsp;76(764)&nbsp;1000&nbsp;-&nbsp;1008&nbsp;2010年&nbsp;&nbsp;			</div>
+
+
+			</div>
+
+	</li>
+<li class="list-group-item rm-cv-disclosed rm-cv-type-myself rm-cv-modified">
+
+	<div class="rm-cv-list-content">
+
+
+			<div>
+				<a href="/masakazukobayashi/published_papers/16908793" class="rm-cv-list-title">COLLABORATION SUPPORT SYSTEM FOR ANALYZING INDIVIDUAL DIFFERENCES BASED ON DESIGNERS&#039; IDEA EVALUATION</a>&nbsp;			</div>
+			<div class="rm-cv-list-author">
+				Masakazu Kobayashi, Masatake Higashi			</div>
+			<div>
+				ICED 09 - THE 17TH INTERNATIONAL CONFERENCE ON ENGINEERING DESIGN, VOL 5: DESIGN METHODS AND TOOLS, PT 1&nbsp;347&nbsp;-&nbsp;+&nbsp;2009年&nbsp;&nbsp;<span class="label label-info rm-cv-list-label">査読有り</span>			</div>
+
+
+			</div>
+
+	</li>
+<li class="list-group-item rm-cv-disclosed rm-cv-type-myself rm-cv-modified">
+
+	<div class="rm-cv-list-content">
+
+
+			<div>
+				<a href="/masakazukobayashi/published_papers/16908600" class="rm-cv-list-title">MULTI-STAGE DESIGN METHOD FOR PRACTICAL COMPLIANT MECHANISMS BY TOPOLOGY AND SHAPE OPTIMIZATIONS AND SHAPE CONVERSION METHOD UTILIZING LEVEL SET METHOD</a>&nbsp;			</div>
+			<div class="rm-cv-list-author">
+				Masakazu Kobayashi, Shinji Nishiwaki, Masatake Higashi			</div>
+			<div>
+				DETC 2008: 32ND ANNUAL MECHANISMS AND ROBOTICS CONFERENCE, VOL. 2, PTS A &amp; B&nbsp;265&nbsp;-&nbsp;272&nbsp;2009年&nbsp;&nbsp;<span class="label label-info rm-cv-list-label">査読有り</span>			</div>
+
+
+			</div>
+
+	</li>
+<li class="list-group-item rm-cv-disclosed rm-cv-type-myself rm-cv-modified">
+
+	<div class="rm-cv-list-content">
+
+
+			<div>
+				<a href="/masakazukobayashi/published_papers/16908534" class="rm-cv-list-title">データ包絡分析法を用いた概念設計における発想支援に関する研究(機械要素,潤滑,設計,生産加工,生産システムなど)</a>&nbsp;			</div>
+			<div class="rm-cv-list-author">
+				佐藤 大祐, 小林 正和, 宮下 朋之			</div>
+			<div>
+				日本機械学会論文集 C編&nbsp;75(760)&nbsp;3355&nbsp;-&nbsp;3363&nbsp;2009年&nbsp;&nbsp;			</div>
+
+
+			</div>
+
+	</li>
+<li class="list-group-item rm-cv-disclosed rm-cv-type-myself rm-cv-modified">
+
+	<div class="rm-cv-list-content">
+
+
+			<div>
+				<a href="/masakazukobayashi/published_papers/16908510" class="rm-cv-list-title">An innovative design method for compliant mechanisms combining structural optimisations and designer creativity</a>&nbsp;			</div>
+			<div class="rm-cv-list-author">
+				Masakazu Kobayashi, Shinji Nishiwaki, Kazuhiro Izui, Masataka Yoshimura			</div>
+			<div>
+				JOURNAL OF ENGINEERING DESIGN&nbsp;20(2)&nbsp;125&nbsp;-&nbsp;154&nbsp;2009年&nbsp;&nbsp;			</div>
+
+
+			</div>
+
+	</li>
+<li class="list-group-item rm-cv-disclosed rm-cv-type-myself rm-cv-modified">
+
+	<div class="rm-cv-list-content">
+
+
+			<div>
+				<a href="/masakazukobayashi/published_papers/16908509" class="rm-cv-list-title">Feature-preserving anisotropic smoothing for meshes with large-scale noise</a>&nbsp;			</div>
+			<div class="rm-cv-list-author">
+				Masatake Higashi, Tetsuo Oya, Tetsuro Sugiura, Masakazu Kobayashi			</div>
+			<div>
+				Computer-Aided Design and Applications&nbsp;6(3)&nbsp;365&nbsp;-&nbsp;374&nbsp;2009年&nbsp;&nbsp;			</div>
+
+
+			</div>
+
+	</li>
+<li class="list-group-item rm-cv-disclosed rm-cv-type-myself rm-cv-created">
+
+	<div class="rm-cv-list-content">
+
+
+			<div>
+				<a href="/masakazukobayashi/published_papers/16908508" class="rm-cv-list-title">機能要件と空間制約に基づく概念設計法</a>&nbsp;			</div>
+			<div class="rm-cv-list-author">
+				小林正和, 鍋野正幸, 東正毅			</div>
+			<div>
+				精密工学会誌&nbsp;75(11)&nbsp;1360&nbsp;-&nbsp;1366&nbsp;2009年&nbsp;&nbsp;			</div>
+
+
+			</div>
+
+	</li>
+<li class="list-group-item rm-cv-disclosed rm-cv-type-myself rm-cv-created">
+
+	<div class="rm-cv-list-content">
+
+
+			<div>
+				<a href="/masakazukobayashi/published_papers/29121987" class="rm-cv-list-title">Efficient interference calculation by tight bounding volumes</a>&nbsp;			</div>
+			<div class="rm-cv-list-author">
+				Masatake Higashi, Yasuyuki Suzuki, Takeshi Nogawa, Yoichi Sano, Masakazu Kobayashi			</div>
+			<div>
+				COMPUTATIONAL SCIENCE - ICCS 2008, PT 2&nbsp;5102&nbsp;15&nbsp;-&nbsp;24&nbsp;2008年&nbsp;&nbsp;<span class="label label-info rm-cv-list-label">査読有り</span>			</div>
+
+
+			</div>
+
+	</li>
+<li class="list-group-item rm-cv-disclosed rm-cv-type-myself rm-cv-created">
+
+	<div class="rm-cv-list-content">
+
+
+			<div>
+				<a href="/masakazukobayashi/published_papers/16908542" class="rm-cv-list-title">包絡分析法に基づくコラボレーション設計支援</a>&nbsp;			</div>
+			<div class="rm-cv-list-author">
+				小林 正和, 宮下 朋之, 山川 宏, 吉村 允孝			</div>
+			<div>
+				日本機械学会論文集 C編&nbsp;74(738)&nbsp;459&nbsp;-&nbsp;466&nbsp;2008年&nbsp;&nbsp;			</div>
+
+
+			</div>
+
+	</li>
+<li class="list-group-item rm-cv-disclosed rm-cv-type-myself rm-cv-created">
+
+	<div class="rm-cv-list-content">
+
+
+			<div>
+				<a href="/masakazukobayashi/published_papers/16908512" class="rm-cv-list-title">包絡分析法に基づくコラボレーション設計支援</a>&nbsp;			</div>
+			<div class="rm-cv-list-author">
+				小林正和, 宮下朋之, 山川宏, 吉村允孝			</div>
+			<div>
+				日本機械学会論文集（C編）&nbsp;74(738)&nbsp;459&nbsp;-&nbsp;466&nbsp;2008年&nbsp;&nbsp;			</div>
+
+
+			</div>
+
+	</li>
+<li class="list-group-item rm-cv-disclosed rm-cv-type-myself rm-cv-created">
+
+	<div class="rm-cv-list-content">
+
+
+			<div>
+				<a href="/masakazukobayashi/published_papers/16908513" class="rm-cv-list-title">Integrated Multi-step Design Method for Practical and Sophisticated Compliant Mechanisms Combining Topology and Shape Optimizations</a>&nbsp;			</div>
+			<div class="rm-cv-list-author">
+				Masakazu Kobayashi, Shinji Nishiwaki, Hiroshi Yamakawa			</div>
+			<div>
+				Journal of Robotics and Mechatoronics&nbsp;19(2)&nbsp;141&nbsp;-&nbsp;147&nbsp;2007年&nbsp;&nbsp;			</div>
+
+
+			</div>
+
+	</li>
+<li class="list-group-item rm-cv-disclosed rm-cv-type-myself rm-cv-created">
+
+	<div class="rm-cv-list-content">
+
+
+			<div>
+				<a href="/masakazukobayashi/published_papers/16908515" class="rm-cv-list-title">コミュニケーションプロセスの可視化に基づいたコラボレーション支援システムの構築</a>&nbsp;			</div>
+			<div class="rm-cv-list-author">
+				小林正和, 吉村允孝, 泉井一浩			</div>
+			<div>
+				日本機械学会論文集（C編）&nbsp;71(707)&nbsp;2370&nbsp;-&nbsp;2377&nbsp;2005年&nbsp;&nbsp;			</div>
+
+
+			</div>
+
+	</li>
+<li class="list-group-item rm-cv-disclosed rm-cv-type-myself rm-cv-created">
+
+	<div class="rm-cv-list-content">
+
+
+			<div>
+				<a href="/masakazukobayashi/published_papers/16908514" class="rm-cv-list-title">設計者の創造性と最適設計法に基づいたコンプライアントメカニズムの創成設計法</a>&nbsp;			</div>
+			<div class="rm-cv-list-author">
+				小林正和, 西脇眞二, 泉井一浩, 吉村允孝			</div>
+			<div>
+				精密工学会誌&nbsp;71(11)&nbsp;1464&nbsp;-&nbsp;1469&nbsp;2005年&nbsp;&nbsp;			</div>
+
+
+			</div>
+
+	</li>
+<li class="list-group-item rm-cv-disclosed rm-cv-type-myself rm-cv-created">
+
+	<div class="rm-cv-list-content">
+
+
+			<div>
+				<a href="/masakazukobayashi/published_papers/16908556" class="rm-cv-list-title">トポロジー最適化と形状最適化に基づいたコンプライアントメカニズムの多段階創成設計法</a>&nbsp;			</div>
+			<div class="rm-cv-list-author">
+				小林 正和, 山下 進介, 西脇 眞二, 泉井 一浩, 吉村 允孝, 富田 直秀			</div>
+			<div>
+				精密工学会誌論文集&nbsp;70(11)&nbsp;1455&nbsp;-&nbsp;1460&nbsp;2004年11月5日&nbsp;&nbsp;			</div>
+
+
+			</div>
+
+	</li>
+			</ul>
+
+
 
 
 
