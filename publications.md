@@ -330,7 +330,7 @@ We try to include links for all of our papers. Some of the links open PDFs, othe
     </div>
 
 </li>
-    </ul>
+
 
 
     ### Copyright Notice
