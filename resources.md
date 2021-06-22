@@ -2,7 +2,7 @@
 title: Reference
 permalink: /resources/
 ---
-<!--
+
 ### Upcoming lab teachings
 
 Every Friday at 13:30 EST, we get together (mix of virtual and in person) for lab teachings.
@@ -54,4 +54,8 @@ Get on the listserve for announcements: https://groups.google.com/forum/#!forum/
 </div>
 
 <hr>
+
+
+<!--
+
 -->
