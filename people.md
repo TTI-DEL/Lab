@@ -58,7 +58,7 @@ permalink: /people/
 <br>
 
 
-<!--
+
 | Who are they | When were they here | Where they went |
 | :------------- |:-------------| :-----------|
 | [Ben Lansdell](http://benlansdell.github.io) | Postdoc (2017 - 2020) | Data Scientist at St. Jude Children's Research Hospital |
@@ -119,4 +119,9 @@ permalink: /people/
 
 {% endif %}
 {% endfor %}
+
+<!--
+
+
+
 -->
