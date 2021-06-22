@@ -6,13 +6,354 @@ permalink: /publication/
 
 coming soon
 
-
-<!--
-For those interested in numbers, see Konrad's [google scholar citations profile](https://scholar.google.com/citations?user=MiFqJGcAAAAJ).
+For those interested in numbers, see  [google scholar citations profile](https://scholar.google.com/citations?user=MiFqJGcAAAAJ).
 
 We try to include links for all of our papers. Some of the links open PDFs, others direct you to a journal's site where that particular publication is available for download. If you cannot access one of our papers, let us know. The copyright notice for these papers is listed at the bottom of the page.
 
 <hr>
+
+<ul class="dropdown-menu" role="menu">
+  <li><a href="/masakazukobayashi/published_papers?start=1&amp;limit=20">20件</a></li><li><a href="/masakazukobayashi/published_papers?start=1&amp;limit=50">50件</a></li><li><a href="/masakazukobayashi/published_papers?start=1&amp;limit=100">100件</a></li>	</ul>
+</span>
+          </div>
+
+                <ul class="rm-cv-list-group">
+      <li class="list-group-item rm-cv-disclosed rm-cv-type-myself rm-cv-created">
+
+<div class="rm-cv-list-content">
+
+
+    <div>
+      <a href="/masakazukobayashi/published_papers/16908607" class="rm-cv-list-title">Reuse of kansei evaluation results for the aesthetic design of different types of products</a>&nbsp;			</div>
+    <div class="rm-cv-list-author">
+      Masakazu Kobayashi, Fumi Shibata			</div>
+    <div>
+      Computer-Aided Design and Applications&nbsp;16&nbsp;150&nbsp;-&nbsp;160&nbsp;2019年1月&nbsp;&nbsp;			</div>
+
+
+    </div>
+
+</li>
+<li class="list-group-item rm-cv-disclosed rm-cv-type-myself rm-cv-modified">
+
+<div class="rm-cv-list-content">
+
+
+    <div>
+      <a href="/masakazukobayashi/published_papers/16908606" class="rm-cv-list-title">Method for grouping of customers and aesthetic design based on rough set theory</a>&nbsp;			</div>
+    <div class="rm-cv-list-author">
+      Masakazu Kobayashi, Kouki Niwa			</div>
+    <div>
+      Computer-Aided Design and Applications&nbsp;15(4)&nbsp;565&nbsp;-&nbsp;574&nbsp;2018年&nbsp;&nbsp;			</div>
+
+
+    </div>
+
+</li>
+<li class="list-group-item rm-cv-disclosed rm-cv-type-myself rm-cv-modified">
+
+<div class="rm-cv-list-content">
+
+
+    <div>
+      <a href="/masakazukobayashi/published_papers/16908608" class="rm-cv-list-title">A method of gathering, selecting and hierarchizing kansei words for a hierarchized kansei model</a>&nbsp;			</div>
+    <div class="rm-cv-list-author">
+      Masakazu Kobayashi, Takuma Kinumura			</div>
+    <div>
+      Computer-Aided Design and Applications&nbsp;14(4)&nbsp;464&nbsp;-&nbsp;471&nbsp;2017年6月7日&nbsp;&nbsp;			</div>
+
+
+    </div>
+
+</li>
+<li class="list-group-item rm-cv-disclosed rm-cv-type-myself rm-cv-created">
+
+<div class="rm-cv-list-content">
+
+
+    <div>
+      <a href="/masakazukobayashi/published_papers/16908660" class="rm-cv-list-title">Exploration of Hints about a New Aesthetic Design Based on a Combination of Aesthetic Features of Existing Products</a>&nbsp;			</div>
+    <div class="rm-cv-list-author">
+      小林 正和			</div>
+    <div>
+      2016 Asia Design Engineering Workshop&nbsp;2016年12月&nbsp;&nbsp;<span class="label label-info rm-cv-list-label">査読有り</span>			</div>
+
+
+    </div>
+
+</li>
+<li class="list-group-item rm-cv-disclosed rm-cv-type-myself rm-cv-modified">
+
+<div class="rm-cv-list-content">
+
+
+    <div>
+      <a href="/masakazukobayashi/published_papers/16908609" class="rm-cv-list-title">A Method for Supporting Aesthetic Design Based on the Analysis of the Relationships between Customer Kansei and Aesthetic Element</a>&nbsp;			</div>
+    <div class="rm-cv-list-author">
+      Masakazu Kobayashi, Takuma Kinumura, Masatake Higashi			</div>
+    <div>
+      Computer-Aided Design and Applications&nbsp;13(3)&nbsp;281&nbsp;-&nbsp;288&nbsp;2016年5月3日&nbsp;&nbsp;			</div>
+
+
+    </div>
+
+</li>
+<li class="list-group-item rm-cv-disclosed rm-cv-type-myself rm-cv-created">
+
+<div class="rm-cv-list-content">
+
+
+    <div>
+      <a href="/masakazukobayashi/published_papers/16908610" class="rm-cv-list-title">Optimal Design of Component Layout and Fastening Methods for the Facilitation of Reuse and Recycle</a>&nbsp;			</div>
+    <div class="rm-cv-list-author">
+      Masakazu Kobayashi, Hajime Horiuchi, Masatake Higashi			</div>
+    <div>
+      Computer-Aided Design and Applications&nbsp;12&nbsp;537&nbsp;-&nbsp;545&nbsp;2015年1月1日&nbsp;&nbsp;			</div>
+
+
+    </div>
+
+</li>
+<li class="list-group-item rm-cv-disclosed rm-cv-type-myself rm-cv-created">
+
+<div class="rm-cv-list-content">
+
+
+    <div>
+      <a href="/masakazukobayashi/published_papers/29580645" class="rm-cv-list-title">Optimization of Assembly Processes of an Automobile Wire Harness</a>&nbsp;			</div>
+    <div class="rm-cv-list-author">
+      Masakazu Kobayashi, Yoshiya Hirano, Masatake Higashi			</div>
+    <div>
+      Computer-Aided Design and Applications&nbsp;11(3)&nbsp;305&nbsp;-&nbsp;311&nbsp;2014年&nbsp;&nbsp;<span class="label label-info rm-cv-list-label">査読有り</span>			</div>
+
+
+    </div>
+
+</li>
+<li class="list-group-item rm-cv-disclosed rm-cv-type-myself rm-cv-created">
+
+<div class="rm-cv-list-content">
+
+
+    <div>
+      <a href="/masakazukobayashi/published_papers/16908612" class="rm-cv-list-title">Multi-criteria reliability-based design optimization for compliant mechanisms</a>&nbsp;			</div>
+    <div class="rm-cv-list-author">
+      M. Kobayashi, M. Higashi			</div>
+    <div>
+      Proceedings of International Design Conference, DESIGN&nbsp;2014-January&nbsp;1105&nbsp;-&nbsp;1112&nbsp;2014年1月&nbsp;&nbsp;<span class="label label-info rm-cv-list-label">査読有り</span>			</div>
+
+
+    </div>
+
+</li>
+<li class="list-group-item rm-cv-disclosed rm-cv-type-myself rm-cv-created">
+
+<div class="rm-cv-list-content">
+
+
+    <div>
+      <a href="/masakazukobayashi/published_papers/16908611" class="rm-cv-list-title">Neural computing with concurrent synchrony</a>&nbsp;			</div>
+    <div class="rm-cv-list-author">
+      Victor Parque, Masakazu Kobayashi, Masatake Higashi			</div>
+    <div>
+      Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)&nbsp;8834&nbsp;304&nbsp;-&nbsp;311&nbsp;2014年1月1日&nbsp;&nbsp;			</div>
+
+
+    </div>
+
+</li>
+<li class="list-group-item rm-cv-disclosed rm-cv-type-myself rm-cv-modified">
+
+<div class="rm-cv-list-content">
+
+
+    <div>
+      <a href="/masakazukobayashi/published_papers/16908595" class="rm-cv-list-title">Bijections for the Numeric Representation of Labeled Graphs</a>&nbsp;			</div>
+    <div class="rm-cv-list-author">
+      Victor Parque, Masakazu Kobayashi, Masatake Higashi			</div>
+    <div>
+      2014 IEEE INTERNATIONAL CONFERENCE ON SYSTEMS, MAN AND CYBERNETICS (SMC)&nbsp;447&nbsp;-&nbsp;452&nbsp;2014年&nbsp;&nbsp;<span class="label label-info rm-cv-list-label">査読有り</span>			</div>
+
+
+    </div>
+
+</li>
+<li class="list-group-item rm-cv-disclosed rm-cv-type-myself rm-cv-modified">
+
+<div class="rm-cv-list-content">
+
+
+    <div>
+      <a href="/masakazukobayashi/published_papers/16908594" class="rm-cv-list-title">Searching for Machine Modularity using Explorit</a>&nbsp;			</div>
+    <div class="rm-cv-list-author">
+      Victor Parque, Masakazu Kobayashi, Masatake Higashi			</div>
+    <div>
+      2014 IEEE INTERNATIONAL CONFERENCE ON SYSTEMS, MAN AND CYBERNETICS (SMC)&nbsp;2599&nbsp;-&nbsp;2604&nbsp;2014年&nbsp;&nbsp;<span class="label label-info rm-cv-list-label">査読有り</span>			</div>
+
+
+    </div>
+
+</li>
+<li class="list-group-item rm-cv-disclosed rm-cv-type-myself rm-cv-created">
+
+<div class="rm-cv-list-content">
+
+
+    <div>
+      <a href="/masakazukobayashi/published_papers/29585444" class="rm-cv-list-title">Reinforced explorit on optimizing vehicle powertrains</a>&nbsp;			</div>
+    <div class="rm-cv-list-author">
+      Victor Parque, Masakazu Kobayashi, Masatake Higashi			</div>
+    <div>
+      Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)&nbsp;8227(2)&nbsp;579&nbsp;-&nbsp;586&nbsp;2013年&nbsp;&nbsp;<span class="label label-info rm-cv-list-label">査読有り</span>			</div>
+
+
+    </div>
+
+</li>
+<li class="list-group-item rm-cv-disclosed rm-cv-type-myself rm-cv-modified">
+
+<div class="rm-cv-list-content">
+
+
+    <div>
+      <a href="/masakazukobayashi/published_papers/16908532" class="rm-cv-list-title">環境配慮設計のための製品の階層的機能構造を考慮したモジュール構成最適化</a>&nbsp;			</div>
+    <div class="rm-cv-list-author">
+      小林 正和, 松本 侑大, 東 正毅			</div>
+    <div>
+      日本機械学会論文集 C編&nbsp;79(807)&nbsp;4047&nbsp;-&nbsp;4060&nbsp;2013年&nbsp;&nbsp;			</div>
+
+
+    </div>
+
+</li>
+<li class="list-group-item rm-cv-disclosed rm-cv-type-myself rm-cv-created">
+
+<div class="rm-cv-list-content">
+
+
+    <div>
+      <a href="/masakazukobayashi/published_papers/29839382" class="rm-cv-list-title">Boundary conditions for high-quality loop subdivision surfaces</a>&nbsp;			</div>
+    <div class="rm-cv-list-author">
+      Masatake Higashi, Shinji Seo, Masakazu Kobayashi, Tetsuo Oya			</div>
+    <div>
+      Computer-Aided Design and Applications&nbsp;8(4)&nbsp;593&nbsp;-&nbsp;602&nbsp;2011年&nbsp;&nbsp;<span class="label label-info rm-cv-list-label">査読有り</span>			</div>
+
+
+    </div>
+
+</li>
+<li class="list-group-item rm-cv-disclosed rm-cv-type-myself rm-cv-modified">
+
+<div class="rm-cv-list-content">
+
+
+    <div>
+      <a href="/masakazukobayashi/published_papers/16908597" class="rm-cv-list-title">INTEGRATED OPTIMIZATION OF PRODUCT DESIGN CONCEPT AND PRODUCT LIFECYCLE SCENARIO BASED ON GENETIC ALGORITHM</a>&nbsp;			</div>
+    <div class="rm-cv-list-author">
+      Masakazu Kobayashi, Masatake Higashi			</div>
+    <div>
+      ECTA 2011/FCTA 2011: PROCEEDINGS OF THE INTERNATIONAL CONFERENCE ON EVOLUTIONARY COMPUTATION THEORY AND APPLICATIONS AND INTERNATIONAL CONFERENCE ON FUZZY COMPUTATION THEORY AND APPLICATIONS&nbsp;208&nbsp;-&nbsp;213&nbsp;2011年&nbsp;&nbsp;<span class="label label-info rm-cv-list-label">査読有り</span>			</div>
+
+
+    </div>
+
+</li>
+<li class="list-group-item rm-cv-disclosed rm-cv-type-myself rm-cv-created">
+
+<div class="rm-cv-list-content">
+
+
+    <div>
+      <a href="/masakazukobayashi/published_papers/29823502" class="rm-cv-list-title">Efficient fitting of subdivision surfaces by simplified Newton method</a>&nbsp;			</div>
+    <div class="rm-cv-list-author">
+      Masatake Higashi, Daisuke Mori, Shinji Seo, Masakazu Kobayashi			</div>
+    <div>
+      Computer-Aided Design and Applications&nbsp;7(6)&nbsp;821&nbsp;-&nbsp;834&nbsp;2010年&nbsp;&nbsp;<span class="label label-info rm-cv-list-label">査読有り</span>			</div>
+
+
+    </div>
+
+</li>
+<li class="list-group-item rm-cv-disclosed rm-cv-type-myself rm-cv-modified">
+
+<div class="rm-cv-list-content">
+
+
+    <div>
+      <a href="/masakazukobayashi/published_papers/16908599" class="rm-cv-list-title">INTEGRATED OPTIMIZATION FOR SUPPORTING FUNCTIONAL AND LAYOUT DESIGNS DURING CONCEPTUAL DESIGN PHASE</a>&nbsp;			</div>
+    <div class="rm-cv-list-author">
+      Masakazu Kobayashi, Yuya Suzuki, Masatake Higashi			</div>
+    <div>
+      PROCEEDINGS OF THE ASME INTERNATIONAL DESIGN ENGINEERING TECHNICAL CONFERENCES AND COMPUTERS AND INFORMATION IN ENGINEERING CONFERENCE, VOL 5, PTS A AND B&nbsp;881&nbsp;-&nbsp;889&nbsp;2010年&nbsp;&nbsp;<span class="label label-info rm-cv-list-label">査読有り</span>			</div>
+
+
+    </div>
+
+</li>
+<li class="list-group-item rm-cv-disclosed rm-cv-type-myself rm-cv-modified">
+
+<div class="rm-cv-list-content">
+
+
+    <div>
+      <a href="/masakazukobayashi/published_papers/16908598" class="rm-cv-list-title">INTEGRATED OPTIMIZATION OF FUNCTIONAL AND LAYOUT DESIGNS BASED ON GENETIC ALGORITHM Consideration of Carbon Emission troughout Product&#039;s Lifecycle</a>&nbsp;			</div>
+    <div class="rm-cv-list-author">
+      Masakazu Kobayashi, Masatake Higashi			</div>
+    <div>
+      ICEC 2010: PROCEEDINGS OF THE INTERNATIONAL CONFERENCE ON EVOLUTIONARY COMPUTATION&nbsp;344&nbsp;-&nbsp;347&nbsp;2010年&nbsp;&nbsp;<span class="label label-info rm-cv-list-label">査読有り</span>			</div>
+
+
+    </div>
+
+</li>
+<li class="list-group-item rm-cv-disclosed rm-cv-type-myself rm-cv-modified">
+
+<div class="rm-cv-list-content">
+
+
+    <div>
+      <a href="/masakazukobayashi/published_papers/16908596" class="rm-cv-list-title">APPLICATION OF PARTICLE SWARM OPTIMIZATION TO ROBOT PATH PLANNING PROBLEM</a>&nbsp;			</div>
+    <div class="rm-cv-list-author">
+      Masakazu Kobayashi, Higashi Masatake			</div>
+    <div>
+      PROCEEDINGS OF THE ASME INTERNATIONAL DESIGN ENGINEERING TECHNICAL CONFERENCES AND COMPUTERS AND INFORMATION IN ENGINEERING CONFERENCE 2010, VOL 2, PTS A AND B&nbsp;1447&nbsp;-&nbsp;1456&nbsp;2010年&nbsp;&nbsp;<span class="label label-info rm-cv-list-label">査読有り</span>			</div>
+
+
+    </div>
+
+</li>
+<li class="list-group-item rm-cv-disclosed rm-cv-type-myself rm-cv-created">
+
+<div class="rm-cv-list-content">
+
+
+    <div>
+      <a href="/masakazukobayashi/published_papers/16908533" class="rm-cv-list-title">概念設計支援のための機能構造とレイアウトの同時最適化</a>&nbsp;			</div>
+    <div class="rm-cv-list-author">
+      小林 正和, 鈴木 佑哉, 東 正毅			</div>
+    <div>
+      精密工学会誌&nbsp;76(8)&nbsp;966&nbsp;-&nbsp;972&nbsp;2010年&nbsp;&nbsp;			</div>
+
+
+    </div>
+
+</li>
+    </ul>
+
+
+    ### Copyright Notice
+
+    The documents listed here are available for downloading and have been provided as a means to ensure timely dissemination of scholarly and technical work on a noncommercial basis. Copyright and all rights therein are maintained by the authors or by other copyright holders, notwithstanding that they have offered their works here electronically. It is understood that all persons copying this information will adhere to the terms and constraints invoked by each author's copyright. These works may not be re-posted without the explicit permission of the copyright holder.
+
+
+
+
+
+<!--
+
+
+
+
 
 ### 2020
 
@@ -1001,7 +1342,5 @@ International Joint Conference on Neural Networks ([PDF](http://klab.smpp.northw
 
 <hr>
 
-### Copyright Notice
 
-The documents listed here are available for downloading and have been provided as a means to ensure timely dissemination of scholarly and technical work on a noncommercial basis. Copyright and all rights therein are maintained by the authors or by other copyright holders, notwithstanding that they have offered their works here electronically. It is understood that all persons copying this information will adhere to the terms and constraints invoked by each author's copyright. These works may not be re-posted without the explicit permission of the copyright holder.
  -->
