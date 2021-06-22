@@ -9,19 +9,159 @@ we study next generation computer aided design system that implements geometric 
 
 ### Research
 
-coming soon
+High-quality subdivision surfaces based on boundary conditions
+Conceptual design CAD including lifecycle assessment and optimization techniquesue
+Decision making support, compliant mechanism and robot path planning based on optimization techniques
+Collaborative work between a humanoid robot and a human
 
-### Lab Members
 
-coming soon
+### Research projects (10)
 
-### Lab Culture
 
-coming soon
+<ul class="rm-cv-list-group">
+				<li class="list-group-item rm-cv-disclosed rm-cv-type-myself rm-cv-created">
 
-### Collaborators
+	<div class="rm-cv-list-content">
 
-coming soon
+		<div>
+			<a href="https://researchmap.jp/masakazukobayashi/research_projects/8364957" target="_blank" rel="noopener" class="rm-cv-list-title">概念設計段階におけるライフサイクル最適化</a>&nbsp;		</div>
+		<div>
+					</div>
+		<div class="rm-cv-list-author">
+					</div>
+
+			</div>
+
+	</li>
+<li class="list-group-item rm-cv-disclosed rm-cv-type-myself rm-cv-created">
+
+	<div class="rm-cv-list-content">
+
+		<div>
+			<a href="https://researchmap.jp/masakazukobayashi/research_projects/8364956" target="_blank" rel="noopener" class="rm-cv-list-title">概念設計CAD</a>&nbsp;		</div>
+		<div>
+					</div>
+		<div class="rm-cv-list-author">
+					</div>
+
+			</div>
+
+	</li>
+<li class="list-group-item rm-cv-disclosed rm-cv-type-myself rm-cv-created">
+
+	<div class="rm-cv-list-content">
+
+		<div>
+			<a href="https://researchmap.jp/masakazukobayashi/research_projects/8364955" target="_blank" rel="noopener" class="rm-cv-list-title">ロボット経路計画法</a>&nbsp;		</div>
+		<div>
+					</div>
+		<div class="rm-cv-list-author">
+					</div>
+
+			</div>
+
+	</li>
+<li class="list-group-item rm-cv-disclosed rm-cv-type-myself rm-cv-created">
+
+	<div class="rm-cv-list-content">
+
+		<div>
+			<a href="https://researchmap.jp/masakazukobayashi/research_projects/8364954" target="_blank" rel="noopener" class="rm-cv-list-title">コラボレーション環境下における創造性支援</a>&nbsp;		</div>
+		<div>
+					</div>
+		<div class="rm-cv-list-author">
+					</div>
+
+			</div>
+
+	</li>
+<li class="list-group-item rm-cv-disclosed rm-cv-type-myself rm-cv-created">
+
+	<div class="rm-cv-list-content">
+
+		<div>
+			<a href="https://researchmap.jp/masakazukobayashi/research_projects/8364953" target="_blank" rel="noopener" class="rm-cv-list-title">構造最適化</a>&nbsp;		</div>
+		<div>
+					</div>
+		<div class="rm-cv-list-author">
+					</div>
+
+			</div>
+
+	</li>
+<li class="list-group-item rm-cv-disclosed rm-cv-type-myself rm-cv-created">
+
+	<div class="rm-cv-list-content">
+
+		<div>
+			<a href="https://researchmap.jp/masakazukobayashi/research_projects/8364952" target="_blank" rel="noopener" class="rm-cv-list-title">Lifecycle optimization for conceptual design</a>&nbsp;		</div>
+		<div>
+					</div>
+		<div class="rm-cv-list-author">
+					</div>
+
+			</div>
+
+	</li>
+<li class="list-group-item rm-cv-disclosed rm-cv-type-myself rm-cv-created">
+
+	<div class="rm-cv-list-content">
+
+		<div>
+			<a href="https://researchmap.jp/masakazukobayashi/research_projects/8364951" target="_blank" rel="noopener" class="rm-cv-list-title">Conceptual design CAD</a>&nbsp;		</div>
+		<div>
+					</div>
+		<div class="rm-cv-list-author">
+					</div>
+
+			</div>
+
+	</li>
+<li class="list-group-item rm-cv-disclosed rm-cv-type-myself rm-cv-created">
+
+	<div class="rm-cv-list-content">
+
+		<div>
+			<a href="https://researchmap.jp/masakazukobayashi/research_projects/8364950" target="_blank" rel="noopener" class="rm-cv-list-title">Robot path planning</a>&nbsp;		</div>
+		<div>
+					</div>
+		<div class="rm-cv-list-author">
+					</div>
+
+			</div>
+
+	</li>
+<li class="list-group-item rm-cv-disclosed rm-cv-type-myself rm-cv-created">
+
+	<div class="rm-cv-list-content">
+
+		<div>
+			<a href="https://researchmap.jp/masakazukobayashi/research_projects/8364949" target="_blank" rel="noopener" class="rm-cv-list-title">Group creativity support</a>&nbsp;		</div>
+		<div>
+					</div>
+		<div class="rm-cv-list-author">
+					</div>
+
+			</div>
+
+	</li>
+<li class="list-group-item rm-cv-disclosed rm-cv-type-myself rm-cv-created">
+
+	<div class="rm-cv-list-content">
+
+		<div>
+			<a href="https://researchmap.jp/masakazukobayashi/research_projects/8364948" target="_blank" rel="noopener" class="rm-cv-list-title">Structural optimization</a>&nbsp;		</div>
+		<div>
+					</div>
+		<div class="rm-cv-list-author">
+					</div>
+
+			</div>
+
+	</li>
+			</ul>
+
+
 
 <!--
 ### Research
