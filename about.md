@@ -17,6 +17,8 @@ Collaborative work between a humanoid robot and a human
 
 ### Academic association
 
+<hr>
+
 <ul class="rm-cv-list-group">
 				<li class="list-group-item rm-cv-disclosed rm-cv-type-myself rm-cv-created">
 
@@ -81,6 +83,8 @@ Collaborative work between a humanoid robot and a human
 
 
 ### Research projects (10)
+
+<hr>
 
 
 <ul class="rm-cv-list-group">
