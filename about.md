@@ -15,6 +15,71 @@ Decision making support, compliant mechanism and robot path planning based on op
 Collaborative work between a humanoid robot and a human
 
 
+### Academic association
+
+<ul class="rm-cv-list-group">
+				<li class="list-group-item rm-cv-disclosed rm-cv-type-myself rm-cv-created">
+
+	<div class="rm-cv-list-content">
+
+		<div class="row">
+			<div class="col-xs-3">
+							</div>
+			<div class="col-xs-9">
+				<a href="/masakazukobayashi/association_memberships/5626970" class="rm-cv-list-title">精密工学会</a>&nbsp;			</div>
+		</div>
+
+			</div>
+
+	</li>
+<li class="list-group-item rm-cv-disclosed rm-cv-type-myself rm-cv-created">
+
+	<div class="rm-cv-list-content">
+
+		<div class="row">
+			<div class="col-xs-3">
+							</div>
+			<div class="col-xs-9">
+				<a href="/masakazukobayashi/association_memberships/5626969" class="rm-cv-list-title">日本機械学会</a>&nbsp;			</div>
+		</div>
+
+			</div>
+
+	</li>
+<li class="list-group-item rm-cv-disclosed rm-cv-type-myself rm-cv-created">
+
+	<div class="rm-cv-list-content">
+
+		<div class="row">
+			<div class="col-xs-3">
+							</div>
+			<div class="col-xs-9">
+				<a href="/masakazukobayashi/association_memberships/5626968" class="rm-cv-list-title">The Japan Society for Precision Engineering</a>&nbsp;			</div>
+		</div>
+
+			</div>
+
+	</li>
+<li class="list-group-item rm-cv-disclosed rm-cv-type-myself rm-cv-created">
+
+	<div class="rm-cv-list-content">
+
+		<div class="row">
+			<div class="col-xs-3">
+							</div>
+			<div class="col-xs-9">
+				<a href="/masakazukobayashi/association_memberships/5626967" class="rm-cv-list-title">The Japan Society of Mechanical Engineers</a>&nbsp;			</div>
+		</div>
+
+			</div>
+
+	</li>
+			</ul>
+
+
+
+
+
 ### Research projects (10)
 
 
