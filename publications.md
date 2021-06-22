@@ -10,6 +10,8 @@ We try to include links for all of our papers. Some of the links open PDFs, othe
 
 <hr>
 
+<ul class="rm-cv-list-group">
+
 <li class="list-group-item rm-cv-disclosed rm-cv-type-myself rm-cv-modified">
 
 <div class="rm-cv-list-content">
@@ -333,12 +335,7 @@ We try to include links for all of our papers. Some of the links open PDFs, othe
 
 
 
-
-
-
-
-<ul class="rm-cv-list-group">
-				<li class="list-group-item rm-cv-disclosed rm-cv-type-myself rm-cv-modified">
+		<li class="list-group-item rm-cv-disclosed rm-cv-type-myself rm-cv-modified">
 
 	<div class="rm-cv-list-content">
 
