@@ -6,7 +6,7 @@ permalink: /blog/
 coming soon
 
 
-<!--
+
 ### **Blog posts from the lab**
 
 <div class="content list">
@@ -38,4 +38,6 @@ coming soon
     {% endif %}
   {% endfor %}
 </div>
+
+<!--
 -->
