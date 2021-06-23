@@ -1,5 +1,5 @@
 ---
-name: Student One
+name: Student 
 position: gradstudent
 avatar: student-one.jpg
 twitter:  twitter
