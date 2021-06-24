@@ -1,5 +1,5 @@
 ---
-name: Masakazu Kobayashi
+name: Prof. Masakazu Kobayashi
 position: pi
 avatar: masakazu_kobayashi.jpg
 twitter: DEL_TTI
